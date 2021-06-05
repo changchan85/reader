@@ -1,704 +1,672 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-05T02:50:47.020Z</id>
+    <id>urn:2021-06-05T02:55:29.301Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-05T02:50:47.020Z</updated>
+    <updated>2021-06-05T02:55:29.302Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[How to Search and Filter Components in React]]></title>
-        <id>60b3480c11ffb70827ef9a88</id>
-        <link href="https://www.freecodecamp.org/news/search-and-filter-component-in-reactjs/"/>
-        <updated>2021-06-04T21:34:33.000Z</updated>
-        <summary type="html"><![CDATA[If you're building a React app, you want your users to be able to search and get exact results. And if you are getting tons of items from an API, then you need to create a way for users to be able to find various items easily.]]></summary>
+        <title type="html"><![CDATA[[macOS] Mac App Store 上的中外文化差异]]></title>
+        <id>https://www.v2ex.com/t/781518#reply0</id>
+        <link href="https://www.v2ex.com/t/781518#reply0"/>
+        <updated>2021-06-05T02:54:47.000Z</updated>
+        <summary type="html"><![CDATA[国内善于找到能改进的点，然后扣掉一颗星，激励你改进。
+国外管你改进不改进，只要一个点满意，无脑夸，让你飘。]]></summary>
         <author>
-            <name>freeCodeCamp.org</name>
+            <name>V2EX</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Machine Learning in Python – The Top New Scikit-Learn 0.24 Features You Should Know]]></title>
-        <id>60ba33d7acb62507dd1d9050</id>
-        <link href="https://www.freecodecamp.org/news/machine-learning-python-new-scikit-learn-features-you-should-know/"/>
-        <updated>2021-06-04T20:58:07.000Z</updated>
-        <summary type="html"><![CDATA[Scikit-learn is one of the most popular open-source and free machine learning libraries for Python.  The scikit-learn library contains a lot of efficient tools for machine learning and statistical modeling including classification, regression, clustering, and dimensionality reduction. Many data scientists, machine learning engineers, and researchers rely on this library for]]></summary>
+        <title type="html"><![CDATA[[问与答] 你是如何写自己的博客的，使用的什么博客框架？]]></title>
+        <id>https://www.v2ex.com/t/781517#reply0</id>
+        <link href="https://www.v2ex.com/t/781517#reply0"/>
+        <updated>2021-06-05T02:41:46.000Z</updated>
         <author>
-            <name>freeCodeCamp.org</name>
+            <name>V2EX</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Recover from Deployment Hell – What I Learned After My Discord Bot Crashed on a 1000+ User Server]]></title>
-        <id>60b8f5c7acb62507dd1d8500</id>
-        <link href="https://www.freecodecamp.org/news/recovering-from-deployment-hell-what-i-learned-from-deploying-my-discord-bot-to-a-1000-user-server/"/>
-        <updated>2021-06-04T20:41:29.000Z</updated>
-        <summary type="html"><![CDATA[I deployed a Discord bot to a 1000+ user server. In the first hour, Deployment Hell struck and my bot crashed. In the next hour, I brought it back, surviving and even thriving in Deployment Hell. In this post, I'll show you how.]]></summary>
+        <title type="html"><![CDATA[[宽带症候群] 南京电信现在政策改了？不给公网 IP 了]]></title>
+        <id>https://www.v2ex.com/t/781515#reply0</id>
+        <link href="https://www.v2ex.com/t/781515#reply0"/>
+        <updated>2021-06-05T02:40:25.000Z</updated>
+        <summary type="html"><![CDATA[之前家里宽带到期，当时还有公网 IP，现在重新要要不到了，泪了
+客服回复的是
+因私网 IP 地址变更为公网 IP 地址不符合 zf 网络信息安全相关要求，南京电信不支持将私网 IP 地址变更为公网 IP 地址，私网 IP 地址不会影响宽带业务使用，感谢您的理解与配合，谢谢！]]></summary>
         <author>
-            <name>freeCodeCamp.org</name>
+            <name>V2EX</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Principles for user-centered front-end development]]></title>
-        <id>https://css-tricks.com/?p=341793</id>
-        <link href="https://colinoakley.medium.com/the-web-we-choose-to-build-e921510e3f1b"/>
-        <updated>2021-06-04T20:36:46.000Z</updated>
-        <summary type="html"><![CDATA[Colin Oakley:
-• Accessible — Use semantic HTML, and make sure we meet the WCAG 2.1 AA standard as a minimum and it works with assisted technologies (this sits alongside the DWP Accessibility Manual)
-• Agnostic — Build 
-…
-The post Principles for user-centered front-end development appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[[酷工作] [实习] [微软亚洲研究院] Azure 智能云防火墙算法研发实习生]]></title>
+        <id>https://www.v2ex.com/t/781513#reply0</id>
+        <link href="https://www.v2ex.com/t/781513#reply0"/>
+        <updated>2021-06-05T02:31:32.000Z</updated>
+        <summary type="html"><![CDATA[微软亚洲研究院-网络研究组招收研究实习生啦~
+微软亚洲研究院 (MSRA)-网络研究组 (Networking Research Group)
+https://www.microsoft.com/en-us/research/group/networking-research-group-2/
+========================
+岗位： [ Azure 智能云防火墙算法研发-全职实习生, 1 名] 
+1 、工作职责：
+- 收集 Azure 云平台租户的 Web 日志，利用 Fuzzy 测试、灰盒测试等技术进行日志分析，实现对 WAF 防火墙防护规则的智能分析；
+- 维护智能防火墙安全规则调度算法，以实现恶意网络流量的监控、分析；
+- 构建基于微服务的分布式智能防火墙监控平台；
+- 参与维护本组在 GitHub 上的开源项目。
+2 、职位要求：
+- 熟悉 Linux 、数据挖掘、计算机网络、网络安全、微服务、分布式架构中的一个或多个领域，有相关项目经验；
+- 熟悉 Go 、Python 、C/C++中的一门或多门语言，有较强的工程能力，熟练掌握 git，代码格式清晰规范，善于团队协作；
+- 有一定英文学术论文阅读能力，能够根据论文进行系统实现；
+- 较强的沟通能力和逻辑表达能力。
+3 、具有以下条件者优先：
+- 在 GitHub 较为活跃，有自己的开源项目，或参与过知名开源项目；
+- 发表过学术论文；
+- 可以连续实习不少于 6 个月。
+========================
+工作时间：每周 5 天，3 个月以上，能够尽快入职
+工作地点：北京市海淀区丹棱街 5 号（疫情期间可远程办公）
+如有意向请发 [中文简历 PDF ] 至：nrg-intern-recruit@microsoft.com
+简历中需标明平均分，及专业或年级排名及排名对应的总人数
+ [注意] 请务必采用学校邮箱（ edu 域名）发送简历，其他邮箱（如 163 、qq 、gmail 、outlook 、hotmail 等）发送会进入公司垃圾邮件，无法被 HR 看到
+邮件标题&简历 PDF 文件名格式：Azure 智能云防火墙算法研发-姓名-学校-本|硕|博-年级-V2EX]]></summary>
         <author>
-            <name>Chris Coyier</name>
+            <name>V2EX</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Learn TypeScript Basics in this Beginner&#x27;s Guide]]></title>
-        <id>60b2a4c611ffb70827ef9842</id>
-        <link href="https://www.freecodecamp.org/news/learn-typescript-basics/"/>
-        <updated>2021-06-04T18:01:00.000Z</updated>
-        <summary type="html"><![CDATA[TypeScript has taken the development world by storm. No wonder it has over 15 million weekly downloads on npm. But what is TypeScript, and what do you need to know about it?  In this article, I am going answer those questions. By the end you'll have a grasp of the]]></summary>
+        <title type="html"><![CDATA[[问与答] 如何让手机在投屏时又能更好充电]]></title>
+        <id>https://www.v2ex.com/t/781512#reply5</id>
+        <link href="https://www.v2ex.com/t/781512#reply5"/>
+        <updated>2021-06-05T02:22:38.000Z</updated>
+        <summary type="html"><![CDATA[因工作关系，我需要经常在 PC 和手机之间切换操作。
+为了避免经常低头保护脖颈，我会使用 scrcpy 这种投屏工具，通过 USB 连接在电脑上操控手机。但这样也带来了新的问题，是手机续航没法保证，经常半天工作下来就没电了，毕竟 USB 得输出实在低，只能断开投屏用充电头充电。
+方案 1，无线投屏
+实际体验无线投屏延迟较高，受网络影响太大
+方案 2，无线充电+有线连接
+不清楚无线充电同时连接 USB 充电对手机有啥影响
+请问还有什么更好的办法既能保持投屏不断开又能维持续航呢？]]></summary>
         <author>
-            <name>freeCodeCamp.org</name>
+            <name>V2EX</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Can I :has()]]></title>
-        <id>https://css-tricks.com/?p=341968</id>
-        <link href="https://bkardell.com/blog/canihas.html"/>
-        <updated>2021-06-04T14:37:59.000Z</updated>
-        <summary type="html"><![CDATA[I just joked that we’re basically getting everything we want in CSS super fast (mostly referring to container queries, my gosh, can you imagine they are actually coming?). Now we might actually get parent selectors?! As in .parent:has(.child) { …
-The post Can I :has() appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[[汽车] 看车祸视频有个疑问,这个 雨刮器 是自动打开的还是误碰的]]></title>
+        <id>https://www.v2ex.com/t/781509#reply3</id>
+        <link href="https://www.v2ex.com/t/781509#reply3"/>
+        <updated>2021-06-05T02:09:55.000Z</updated>
+        <summary type="html"><![CDATA[基本每个 车祸视频后, 雨刮器就打开了
+甚至部分重踩急刹的 雨刮器也打开了
+到底是 车辆的默认设置 还是 人为误碰的(主动打开的可能性不大吧)
+有 懂的大佬解释解释么]]></summary>
         <author>
-            <name>Chris Coyier</name>
+            <name>V2EX</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Getting Started With Webpack]]></title>
-        <id>https://smashingmagazine.com/2021/06/getting-started-webpack/</id>
-        <link href="https://smashingmagazine.com/2021/06/getting-started-webpack/"/>
-        <updated>2021-06-04T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Modern browsers provide good support for JavaScript modules, but module bundlers such as webpack stay a critical part of the JavaScript toolchain. Let’s take a deep dive into what webpack is and how to use it in your development workflow.]]></summary>
+        <title type="html"><![CDATA[[软件] teamviewer 的开源替代有哪些?]]></title>
+        <id>https://www.v2ex.com/t/781507#reply1</id>
+        <link href="https://www.v2ex.com/t/781507#reply1"/>
+        <updated>2021-06-05T01:50:35.000Z</updated>
+        <summary type="html"><![CDATA[要真开源，可以自建 serv 的，rustdesk 和 todest 这种请忽略]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Nwani Victory)</name>
+            <name>V2EX</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Python for Bioinformatics: Use Machine Learning and Data Analysis for Drug Discovery]]></title>
-        <id>60b98ebfacb62507dd1d8ec4</id>
-        <link href="https://www.freecodecamp.org/news/python-for-bioinformatics-use-machine-learning-and-data-analysis-for-drug-discovery/"/>
-        <updated>2021-06-04T02:32:22.000Z</updated>
-        <summary type="html"><![CDATA[Are you looking for a way to apply Python and machine learning to a real-world application? You should consider Bioinformatics. Bioinformatics is an interdisciplinary field that develops methods and software tools for understanding biological data, in particular when the data sets are large and complex. We just released a course]]></summary>
+        <title type="html"><![CDATA[[Apple] 12mini 连接 Wi-Fi 时蜂窝持续断连，发热严重]]></title>
+        <id>https://www.v2ex.com/t/781506#reply4</id>
+        <link href="https://www.v2ex.com/t/781506#reply4"/>
+        <updated>2021-06-05T01:49:08.000Z</updated>
+        <summary type="html"><![CDATA[新买的 12mini，使用蜂窝网络时正常，但是连接 Wi-Fi 后会出现蜂窝网络信号消失、信号恢复的持续循环过程之中，手机会发热异常严重。关闭 Wi-Fi 之后逐渐恢复正常。
+请问大家有没有遇到此类问题。购于京东，想退货不是很容易。]]></summary>
         <author>
-            <name>freeCodeCamp.org</name>
+            <name>V2EX</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JavaScript Tutorial – How to Set Up a Front End Development Project]]></title>
-        <id>60b11ff811ffb70827ef8f94</id>
-        <link href="https://www.freecodecamp.org/news/how-to-set-up-a-front-end-development-project/"/>
-        <updated>2021-06-03T21:44:03.000Z</updated>
-        <summary type="html"><![CDATA[Let’s say you plan to build a website. Before you start, you want to set up a few tools to make your life easier. But which tools should you have? The JavaScript ecosystem is changing so fast that it can be overwhelming to pick the best tools to use.]]></summary>
+        <title type="html"><![CDATA[[职场话题] 你们公司都提供了哪些正版软件授权？]]></title>
+        <id>https://www.v2ex.com/t/781505#reply8</id>
+        <link href="https://www.v2ex.com/t/781505#reply8"/>
+        <updated>2021-06-05T01:47:47.000Z</updated>
+        <summary type="html"><![CDATA[先说我们：无，真的什么都不给买，而且还老发通知不让用盗版😂]]></summary>
         <author>
-            <name>freeCodeCamp.org</name>
+            <name>V2EX</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Schofield&#x27;s Laws of Computing – What they Are and Why You Should Know Them]]></title>
-        <id>60afd68611ffb70827ef86d8</id>
-        <link href="https://www.freecodecamp.org/news/schofields-laws-of-computing/"/>
-        <updated>2021-06-03T18:46:12.000Z</updated>
-        <summary type="html"><![CDATA[Schofield's Laws of Computing are principles that anyone who works with computers should know. They're focused on data portability, integrity, and security.  Jack Schofield was a prolific journalist who wrote for The Guardian and covered technology for nearly four decades. During that time, he wrote three particular articles called "Schofield's]]></summary>
+        <title type="html"><![CDATA[[程序员] TypeScript 可不可以被叫做小 Java ？]]></title>
+        <id>https://www.v2ex.com/t/781504#reply16</id>
+        <link href="https://www.v2ex.com/t/781504#reply16"/>
+        <updated>2021-06-05T01:37:35.000Z</updated>
+        <summary type="html"><![CDATA[封装，继承，多态，抽象，接口，重载，简直是一个模子里刻出来的。]]></summary>
         <author>
-            <name>freeCodeCamp.org</name>
+            <name>V2EX</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lists in Python – A Comprehensive Guide]]></title>
-        <id>60b7c02cacb62507dd1d7b80</id>
-        <link href="https://www.freecodecamp.org/news/lists-in-python-comprehensive-guide/"/>
-        <updated>2021-06-03T18:42:20.000Z</updated>
-        <summary type="html"><![CDATA[Let’s suppose you’re planning to visit your neighborhood store to stock up on essentials. What is the first thing you’d do?  Have the answer already? Yes, you'd probably write down a shopping list! Python also has a built-in data structure called List that’s very similar to]]></summary>
+        <title type="html"><![CDATA[[Linux] centos7 禁止锁屏后还是会锁屏]]></title>
+        <id>https://www.v2ex.com/t/781503#reply0</id>
+        <link href="https://www.v2ex.com/t/781503#reply0"/>
+        <updated>2021-06-05T01:34:18.000Z</updated>
+        <summary type="html"><![CDATA[centos7 禁止锁屏后还是会锁屏
+怎么解决]]></summary>
         <author>
-            <name>freeCodeCamp.org</name>
+            <name>V2EX</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Build a Hackintosh - Install MacOS Big Sur on a PC Using OpenCore]]></title>
-        <id>60affbe411ffb70827ef8951</id>
-        <link href="https://www.freecodecamp.org/news/build-a-hackintosh/"/>
-        <updated>2021-06-03T18:07:17.000Z</updated>
-        <summary type="html"><![CDATA[A Hackintosh is a non-Mac computer system, made with PC parts, that runs the macOS operating system. In this tutorial, you will learn how to create a Hackintosh. You will learn how to install macOS Big Sur (or any other version of macOS) using OpenCore. The main benefit of a]]></summary>
+        <title type="html"><![CDATA[[问与答] iPhone 上打开「滴答清单」， mac 上的一键快捷登录是如何实现的？]]></title>
+        <id>https://www.v2ex.com/t/781500#reply2</id>
+        <link href="https://www.v2ex.com/t/781500#reply2"/>
+        <updated>2021-06-05T01:22:52.000Z</updated>
+        <summary type="html"><![CDATA[1 ）在 iPhone 上打开「滴答清单」的清单页；
+2 ） MacBook 的 dock 栏会出现如下图所示的提醒图标；
+3 ）点击这个图标就一键登录到了「滴答清单」的 web 页。
+好像即使 web 页之前没有登录，也会自动登录上去。
+这个功能相当好用。
+请问：
+1 、这个功能的实现原理是什么？
+2 、Android 也可以实现这个功能吗？
+3 、这个 APP 是跨安卓、iOS 系统的，是 Flutter 开发的吗？
+附图：]]></summary>
         <author>
-            <name>freeCodeCamp.org</name>
+            <name>V2EX</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Serverless vs Fully Managed Services: What&#x27;s the Difference?]]></title>
-        <id>60aa708711ffb70827ef5f4b</id>
-        <link href="https://www.freecodecamp.org/news/serverless-fully-managed-service-difference/"/>
-        <updated>2021-06-03T16:51:37.000Z</updated>
-        <summary type="html"><![CDATA[If you're new to cloud technologies, you might be confused about the difference between serverless technologies and managed services.  So in this article you'll learn what these terms mean and what the main differences are.    What Are Managed Services? A managed service let the end-user focus on using a service]]></summary>
+        <title type="html"><![CDATA[[Windows] 电脑硬盘数据备份，备份到移动硬盘，有没有办法增量备份同步？]]></title>
+        <id>https://www.v2ex.com/t/781499#reply6</id>
+        <link href="https://www.v2ex.com/t/781499#reply6"/>
+        <updated>2021-06-05T01:22:38.000Z</updated>
+        <summary type="html"><![CDATA[几百 G 的数据，过段时间备份一次，要好几个小时，挺麻烦的，有没有支持增量备份或者同步 的办法？
+还有 WIN10，备份系统和安装的软件，有没有好的方法？ 换电脑或者更换固态，可以 快速移植  系统和安装的软件！]]></summary>
         <author>
-            <name>freeCodeCamp.org</name>
+            <name>V2EX</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hexagons and Beyond: Flexible, Responsive Grid Patterns, Sans Media Queries]]></title>
-        <id>https://css-tricks.com/?p=341584</id>
-        <link href="https://css-tricks.com/hexagons-and-beyond-flexible-responsive-grid-patterns-sans-media-queries/"/>
-        <updated>2021-06-03T14:25:57.000Z</updated>
-        <summary type="html"><![CDATA[A little while back, Chris shared this nice hexagonal grid. And true to its name, it’s using —wait for it — CSS Grid to form that layout. It’s a neat trick! Combining grid columns, grid gaps, and creative clipping …
-The post Hexagons and Beyond: Flexible, Responsive Grid Patterns, Sans Media Queries appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[[Linux] 在一台机器上搭建两个 OCSERV 服务器是否可行？]]></title>
+        <id>https://www.v2ex.com/t/781498#reply4</id>
+        <link href="https://www.v2ex.com/t/781498#reply4"/>
+        <updated>2021-06-05T01:20:24.000Z</updated>
+        <summary type="html"><![CDATA[如题，在一台机器上的两个接口（如 eth0 和 eth1 ），搭建两个 ocserv 服务器，外网用户通过任意一个接口均可以 VPN 接入内网（如 eth2 对应的 LAN ）。貌似 OpenWrt 不行，不知道在 Debian 等 Linux 下是否可行。]]></summary>
         <author>
-            <name>Temani Afif</name>
+            <name>V2EX</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Monitoring Lighthouse Scores and Core Web Vitals with DebugBear]]></title>
-        <id>https://css-tricks.com/?p=341494</id>
-        <link href="https://css-tricks.com/monitoring-lighthouse-scores-and-core-web-vitals-with-debugbear/"/>
-        <updated>2021-06-03T14:25:19.000Z</updated>
-        <summary type="html"><![CDATA[DebugBear takes just a few seconds to start using. You literally point it at a URL you want to watch, and it’ll start watching it. You install nothing.
-It’ll start running tests, and you’ve immediately got performance charts you can …
-The post Monitoring Lighthouse Scores and Core Web Vitals with DebugBear appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[[Windows] win10 新版本右下角的信息流可以关闭吗]]></title>
+        <id>https://www.v2ex.com/t/781495#reply11</id>
+        <link href="https://www.v2ex.com/t/781495#reply11"/>
+        <updated>2021-06-05T01:01:56.000Z</updated>
+        <summary type="html"><![CDATA[这两天更新了最新版的 win10，右下角出现了个信息流的图标，点开后加载不出来内容，显示网络错误，请问可以关闭吗，如果不能关闭那怎样才能让他显示内容呢]]></summary>
         <author>
-            <name>Chris Coyier</name>
+            <name>V2EX</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Managing Shared State In Vue 3]]></title>
-        <id>https://smashingmagazine.com/2021/06/managing-shared-state-vue3/</id>
-        <link href="https://smashingmagazine.com/2021/06/managing-shared-state-vue3/"/>
-        <updated>2021-06-03T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Writing large-scale Vue applications can be a challenge. In this article, Shawn Wildermuth dives into the pros and cons of approaches like factories, shared objects, and using Vuex. He also explains what is coming in Vuex 5.0 that might change how we all use shared state in Vue 3.]]></summary>
+        <title type="html"><![CDATA[[Chrome] Chrome v91 能否把扩展程序的图标移出来？]]></title>
+        <id>https://www.v2ex.com/t/781492#reply2</id>
+        <link href="https://www.v2ex.com/t/781492#reply2"/>
+        <updated>2021-06-05T00:46:02.000Z</updated>
+        <summary type="html"><![CDATA[v91 的版本之前是可以使用启动参数  --disable-features=ExtensionsToolbarMenu 的，但是升级之后失效了]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Shawn Wildermuth)</name>
+            <name>V2EX</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Debugging iOS Safari]]></title>
-        <id>https://css-tricks.com/?p=341724</id>
-        <link href="https://css-tricks.com/debugging-ios-safari/"/>
-        <updated>2021-06-02T21:15:28.000Z</updated>
-        <summary type="html"><![CDATA[How do I debug Safari on iOS?
-These are my general steps, starting with not even using iOS Safari.
-1. Is this just a small-screen problem?
-Lemme just use the device mode in Chrome quick.
-Note that this does a …
-The post Debugging iOS Safari appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[[问与答] diy 优盘去学校门口摆摊有必要激光刻字，包装么]]></title>
+        <id>https://www.v2ex.com/t/781490#reply12</id>
+        <link href="https://www.v2ex.com/t/781490#reply12"/>
+        <updated>2021-06-04T22:57:55.000Z</updated>
+        <summary type="html"><![CDATA[由于家庭原因两年没出去工作了，一直干点杂活。最近学了 diy 优盘，附近有个民办的本科要开张了，不知道会不会有销路。想着小孩们应该挺喜欢个性东西，买个便宜点的激光雕刻机给优盘壳子不知道能卖出去不。有没有必要搞包装么，怎么证明自己的不是扩容盘，希望大佬们指教。]]></summary>
         <author>
-            <name>Chris Coyier</name>
+            <name>V2EX</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Crash Course in WordPress Block Filters]]></title>
-        <id>https://css-tricks.com/?p=341442</id>
-        <link href="https://css-tricks.com/a-crash-course-in-wordpress-block-filters/"/>
-        <updated>2021-06-02T13:35:53.000Z</updated>
-        <summary type="html"><![CDATA[Blocks in WordPress are great. Drop some into the page, arrange them how you like, and you’ve got a pretty sweet landing page with little effort. But what if the default blocks in WordPress need a little tweaking? Like, what …
-The post A Crash Course in WordPress Block Filters appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[[问与答] 高考马上结束了，需要送亲戚孩子笔记本，想问下现在 M1 芯片的 MacBook 能满足大学需求吗？我不是指性能。还是说最好还是买 Windows？]]></title>
+        <id>https://www.v2ex.com/t/781489#reply28</id>
+        <link href="https://www.v2ex.com/t/781489#reply28"/>
+        <updated>2021-06-04T19:07:50.000Z</updated>
+        <summary type="html"><![CDATA[大学是否有很多必须运行在 Windows 的软件？
+如果是的话那就没得选了
+能否克服？
+如果能克服的话还是想给他买 MacBook]]></summary>
         <author>
-            <name>Dmitry Mayorov</name>
+            <name>V2EX</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Are Custom Properties a “Menu of What Will Change”?]]></title>
-        <id>https://css-tricks.com/?p=341572</id>
-        <link href="https://css-tricks.com/are-custom-properties-a-menu-of-what-will-change/"/>
-        <updated>2021-06-02T13:35:40.000Z</updated>
-        <summary type="html"><![CDATA[PPK laid out an interesting situation in “Two options for using custom properties” where he and Stefan Judis had two different approaches for doing the same thing with custom properties. In one approach, hover and focus styles for a …
-The post Are Custom Properties a “Menu of What Will Change”? appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[[问与答] 如何根据前端请求找到对应的后端执行的 sql 语句？]]></title>
+        <id>https://www.v2ex.com/t/781488#reply3</id>
+        <link href="https://www.v2ex.com/t/781488#reply3"/>
+        <updated>2021-06-04T18:28:53.000Z</updated>
+        <summary type="html"><![CDATA[如题，postgresql 数据库，开启了全量日志太多东西了，青椒下有无啥小技巧可以方便的根据前端请求找到对应的后端实际执行的 sql 语句？
+提前谢过！]]></summary>
         <author>
-            <name>Chris Coyier</name>
+            <name>V2EX</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How To Fix Cumulative Layout Shift (CLS) Issues]]></title>
-        <id>https://smashingmagazine.com/2021/06/how-to-fix-cumulative-layout-shift-issues/</id>
-        <link href="https://smashingmagazine.com/2021/06/how-to-fix-cumulative-layout-shift-issues/"/>
-        <updated>2021-06-02T12:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Google’s Core Web Vitals initiative has taken the SEO and Web Performance worlds by storm and many sites are busy optimizing their Page Experience to maximize the ranking factor. The Cumulative Layout Shift metric is causing trouble to a lot of sites, so let’s have a look at ways of addressing any issues for that metric.]]></summary>
+        <title type="html"><![CDATA[[Microsoft Office] outlook ios 端有拉黑或者拒收功能吗]]></title>
+        <id>https://www.v2ex.com/t/781487#reply1</id>
+        <link href="https://www.v2ex.com/t/781487#reply1"/>
+        <updated>2021-06-04T18:28:02.000Z</updated>
+        <summary type="html"><![CDATA[很多邮箱 app 在发件人后都会有下拉菜单“拒收该地址邮件”之类的，outlook 的找了一圈都没看到]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Barry Pollard)</name>
+            <name>V2EX</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Improving The Performance Of An Online Store (Case Study)]]></title>
-        <id>https://smashingmagazine.com/2021/06/front-end-performance-online-store-jewellerybox/</id>
-        <link href="https://smashingmagazine.com/2021/06/front-end-performance-online-store-jewellerybox/"/>
-        <updated>2021-06-02T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Getting a good performance score from Google is hard for any website — but doing so for an online store is even harder. We achieved green scores — even several for mobile. Here is how we did it.]]></summary>
+        <title type="html"><![CDATA[[信息安全] 在对方可以拿到真实 Ip 的情况下，如何防御 ddos 攻击？]]></title>
+        <id>https://www.v2ex.com/t/781486#reply12</id>
+        <link href="https://www.v2ex.com/t/781486#reply12"/>
+        <updated>2021-06-04T18:20:49.000Z</updated>
+        <summary type="html"><![CDATA[RT，不是做网站，只是拿服务器跑流量，我用了 iptables 屏蔽了国外节点，但是无法下一些国外的东西]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Jennifer Brehm)</name>
+            <name>V2EX</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Code blocks, but better]]></title>
-        <id>https://css-tricks.com/?p=341720</id>
-        <link href="https://ped.ro/blog/code-blocks-but-better"/>
-        <updated>2021-06-01T22:08:48.000Z</updated>
-        <summary type="html"><![CDATA[Pedro Duarte made a wishlist for styled code blocks in blog posts and documentation, then hand-rolls a perfect solution for that wishlist. For example, a feature to be able to highlight certain lines or words within the code block. The …
-The post Code blocks, but better appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[[问与答] 请帮忙确认 MAC 16 寸是否有异响，谢谢]]></title>
+        <id>https://www.v2ex.com/t/781485#reply5</id>
+        <link href="https://www.v2ex.com/t/781485#reply5"/>
+        <updated>2021-06-04T17:57:05.000Z</updated>
+        <summary type="html"><![CDATA[我买了个二手的 16 寸 MAC,有一点异响，所以想求证下：
+合上盖子，手捏 标注位置和盖子，会不会有咯吱咯吱的异响呢？]]></summary>
         <author>
-            <name>Chris Coyier</name>
+            <name>V2EX</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Front-End Testing is For Everyone]]></title>
-        <id>https://css-tricks.com/?p=341342</id>
-        <link href="https://css-tricks.com/front-end-testing-is-for-everyone/"/>
-        <updated>2021-06-01T14:17:43.000Z</updated>
-        <summary type="html"><![CDATA[Testing is one of those things that you either get super excited about or kinda close your eyes and walk away. Whichever camp you fall into, I’m here to tell you that front-end testing is for everyone. In fact, …
-The post Front-End Testing is For Everyone appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[[Apple] 出 27 寸 iMac 和 15 寸 MBP]]></title>
+        <id>https://www.v2ex.com/t/781482#reply2</id>
+        <link href="https://www.v2ex.com/t/781482#reply2"/>
+        <updated>2021-06-04T17:18:25.000Z</updated>
+        <summary type="html"><![CDATA[配置如下：
+iMac (Retina 5K, 27-inch, 2019)
+处理器 3.7 GHz 六核 Intel Core i5
+内存 24 GB 2667 MHz DDR4
+图形卡 Radeon Pro 580X 8 GB
+存储 512G ssd
+赠送一个妙控键盘
+2020 年初国行官网买的，原价 19999,无任何维修任何损坏，运行良好，外观九成新。
+MacBook Pro(15-inch,2017)
+处理器 2.8GHz 四核 i7
+内存 16G
+存储 256G ssd
+电池循环 161
+2018 年购于香港，原价 14000 左右，无任何维修损坏，运行良好，外观九成新。
+由于平时办公用公司电脑，这两款家用频率比较低，想置换新款 16 寸 MBP，故出。有意向带价联系 WX 5|9|7|1|1|9|9|1|9]]></summary>
         <author>
-            <name>Evgeny Klimenchenko</name>
+            <name>V2EX</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Jetpack Boost Handles Critical CSS For You]]></title>
-        <id>https://css-tricks.com/?p=341296</id>
-        <link href="https://css-tricks.com/jetpack-boost-handles-critical-css-for-you/"/>
-        <updated>2021-06-01T14:16:55.000Z</updated>
-        <summary type="html"><![CDATA[Critical CSS is one of those things I see in my performance reports but always seem to ignore. I know what it means. It means to put only the CSS required to render things immediately visible in a <style>…
-The post Jetpack Boost Handles Critical CSS For You appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[[问与答] 请教一个关于 flutter 的多线程问题]]></title>
+        <id>https://www.v2ex.com/t/781480#reply0</id>
+        <link href="https://www.v2ex.com/t/781480#reply0"/>
+        <updated>2021-06-04T16:10:27.000Z</updated>
+        <summary type="html"><![CDATA[我在写一个依赖本地数据库 app，一个界面需要加载并计算较多的数据，此时主线程会有卡顿，使用 isolate 的话因为在 isolate 中不能使用 platform channel （已知问题），导致无法使用数据库。所以现在只能在主线程硬卡。
+不知道有没有人遇到过这种问题，怎么解决的]]></summary>
         <author>
-            <name>Geoff Graham</name>
+            <name>V2EX</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Smashing Podcast Episode 38 With Ivan Akulov: Why Is My React App Slow?]]></title>
-        <id>https://smashingmagazine.com/2021/06/smashing-podcast-episode-38/</id>
-        <link href="https://smashingmagazine.com/2021/06/smashing-podcast-episode-38/"/>
-        <updated>2021-06-01T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this episode, we’re talking about React performance. What factors slow our React apps down, and how can we fix it? Drew McLellan talks to expert Ivan Akulov to find out.]]></summary>
+        <title type="html"><![CDATA[[前端开发] 想问下大家仿站一般都是怎么做的？]]></title>
+        <id>https://www.v2ex.com/t/781478#reply1</id>
+        <link href="https://www.v2ex.com/t/781478#reply1"/>
+        <updated>2021-06-04T15:58:13.000Z</updated>
+        <summary type="html"><![CDATA[以前没接触过这方面的内容，今天有个后端朋友问我，我也答不上
+想问问大家这方面有什么思路吗？]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Drew McLellan)</name>
+            <name>V2EX</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Setting Up A Currency Convertor With ExchangeRatesApi.io]]></title>
-        <id>https://smashingmagazine.com/2021/06/currency-convertor-exchangeratesapi/</id>
-        <link href="https://smashingmagazine.com/2021/06/currency-convertor-exchangeratesapi/"/>
-        <updated>2021-06-01T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Amazon allows visitors to display prices in their own currency. Thanks to *ExchangeRatesApi.io*, we can do the same for our online shops, providing a better experience to our customers. Let’s find out how.]]></summary>
+        <title type="html"><![CDATA[[Python] 我想要实现去除掉一个文本中所有的非句首大写的单词，请问用正则表达式该如何写呢？
+所示例子如下： This story appears in the June/July in U.S..]]></title>
+        <id>https://www.v2ex.com/t/781477#reply1</id>
+        <link href="https://www.v2ex.com/t/781477#reply1"/>
+        <updated>2021-06-04T15:56:50.000Z</updated>
+        <summary type="html"><![CDATA[Python - @reachsky -]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Leonardo Losoviz)</name>
+            <name>V2EX</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[v1.10.2]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.10.2</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.10.2"/>
-        <updated>2021-06-01T04:39:30.000Z</updated>
-        <summary type="html"><![CDATA[Added: testing and CI/CD workflows]]></summary>
+        <title type="html"><![CDATA[[Apple] MagSafe Charger ( iPhone ) 固件升级方式(需 Mac)]]></title>
+        <id>https://www.v2ex.com/t/781476#reply13</id>
+        <link href="https://www.v2ex.com/t/781476#reply13"/>
+        <updated>2021-06-04T15:43:36.000Z</updated>
+        <summary type="html"><![CDATA[将手机与 MagSafe 充电器连接, 进入“设置-通用-关于本机”, 下翻找到“Apple MagSafe Charger”, 点击进入查看当前固件版本, 已知有两种版本(171.0.0.0 与 174.0.0.0), 如为 171.0.0.0, 则可升级
+将 MagSafe 充电器连接 Mac, 在系统信息中查看 USB 设备,可在“USB 3.1 Bus”下看到“Apple MagSafe Charger”, 此时版本为 1.71
+等待数分钟, 中间可刷新系统信息, 当“Apple MagSafe Charger”消失时, 应是正在升级固件
+当刷新系统信息后“Apple MagSafe Charger”出现时, 点击查看版本, 此时应为 1.74
+以上升级过程使用的 Mac 为 MBP2018, Big Sur11.4.
+固件升级具体影响未知, 网上未见明显对比或讨论相关差异]]></summary>
         <author>
-            <name>Release notes from osmosfeed</name>
+            <name>V2EX</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Serverless Functions: The Secret to Ultra-Productive Front-End Teams]]></title>
-        <id>https://css-tricks.com/?p=340465</id>
-        <link href="https://css-tricks.com/serverless-functions-the-secret-to-ultra-productive-front-end-teams/"/>
-        <updated>2021-05-31T17:16:22.000Z</updated>
-        <summary type="html"><![CDATA[Modern apps place high demands on front-end developers. Web apps require complex functionality, and the lion’s share of that work is falling to front-end devs:
-building modern, accessible user interfaces
-creating interactive elements and complex animations
-managing complex application state
-…
-The post Serverless Functions: The Secret to Ultra-Productive Front-End Teams appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[[问与答] 数据库主从复制问题]]></title>
+        <id>https://www.v2ex.com/t/781471#reply0</id>
+        <link href="https://www.v2ex.com/t/781471#reply0"/>
+        <updated>2021-06-04T14:48:28.000Z</updated>
+        <summary type="html"><![CDATA[弱弱的问一下，一般数据库做了主从，那么应该是配置成实时同步还是异步？
+这个时间延迟会达到多少？  影响前端用户体验码？]]></summary>
         <author>
-            <name>Jason Lengstorf</name>
+            <name>V2EX</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Local: Always Getting Better]]></title>
-        <id>https://css-tricks.com/?p=341482</id>
-        <link href="https://css-tricks.com/local-always-getting-better/"/>
-        <updated>2021-05-31T17:13:02.000Z</updated>
-        <summary type="html"><![CDATA[I’ve been using Local for ages. Four years ago, I wrote about how I got all my WordPress sites running locally on it. I just wanted to give it another high five because it’s still here and still great. In …
-The post Local: Always Getting Better appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[[Linux] centos 系统如何永远禁止网卡随系统启动]]></title>
+        <id>https://www.v2ex.com/t/781470#reply4</id>
+        <link href="https://www.v2ex.com/t/781470#reply4"/>
+        <updated>2021-06-04T14:42:19.000Z</updated>
+        <summary type="html"><![CDATA[修改网卡配置文件
+NOBOOT=no
+none 也试了 不行]]></summary>
         <author>
-            <name>Chris Coyier</name>
+            <name>V2EX</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Happy June Vibes For Your Screen (2021 Desktop Wallpapers Edition)]]></title>
-        <id>https://smashingmagazine.com/2021/05/desktop-wallpaper-calendars-june-2021/</id>
-        <link href="https://smashingmagazine.com/2021/05/desktop-wallpaper-calendars-june-2021/"/>
-        <updated>2021-05-31T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[What could be a better way to welcome June than with some colorful inspiration? Well, we might have something for you: wallpapers created with love by artists and designers from across the globe.]]></summary>
+        <title type="html"><![CDATA[[问与答] Keychron K6 Windows 蓝牙连接后无反应]]></title>
+        <id>https://www.v2ex.com/t/781469#reply2</id>
+        <link href="https://www.v2ex.com/t/781469#reply2"/>
+        <updated>2021-06-04T14:36:49.000Z</updated>
+        <summary type="html"><![CDATA[之前买了一个 k6 用在 macOS 上，感觉不错，于是又买了一个，想着放在家里给 windows 用， 没想到啊没想到。
+windows 老是会出现蓝牙已连接，但是键盘无响应的情况，不知道是怎么回事，具体的情况如下:
+1.蓝牙适配器是绿联的，兼容蓝牙 5.1
+2.蓝牙驱动是 inter 最新版
+3.出现的场景是开机的时候，如果开机能输入，那就能输入，如果开机无响应，那就只能重启
+4.在 3 的基础上，通过软键盘登录，打开蓝牙页面后，发现已经连接了键盘，但就是无响应
+5.只能删除键盘，然后再重新添加；有时候还会出现无法添加，只能将键盘恢复出厂设置，重新连接
+6.问了客服，说 windows 建议有线连接，我靠。
+7.Google 了一圈，也没发现类似问题
+综上所述：
+1.有没有懂行的老哥，知道是啥原因，怎么修改
+2.有没有其他机械键盘推荐，68 键、蓝牙有线双模、办公用、]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+            <name>V2EX</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dynamic Favicons for WordPress]]></title>
-        <id>https://css-tricks.com/?p=341163</id>
-        <link href="https://css-tricks.com/dynamic-favicons-for-wordpress/"/>
-        <updated>2021-05-28T14:36:47.000Z</updated>
-        <summary type="html"><![CDATA[Typically, a single favicon is used across a whole domain. But there are times you wanna step it up with different favicons depending on context. A website might change the favicon to match the content being viewed. Or a site …
-The post Dynamic Favicons for WordPress appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Thomas Park</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adding A Commenting System To A WYSIWYG Editor]]></title>
-        <id>https://smashingmagazine.com/2021/05/commenting-system-wysiwyg-editor/</id>
-        <link href="https://smashingmagazine.com/2021/05/commenting-system-wysiwyg-editor/"/>
-        <updated>2021-05-28T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we’ll be re-using the foundational WYSIWYG Editor built in the first article to build a commenting system for a WYSIWYG Editor that enables users to select text inside a document and share their comments on it. Let’s dig in!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Shalabh Vyas)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[To $ or Not to $: Displaying Terminal Code Snippets]]></title>
-        <id>https://css-tricks.com/?p=341298</id>
-        <link href="https://css-tricks.com/to-or-not-to-displaying-terminal-code-snippets/"/>
-        <updated>2021-05-27T18:22:11.000Z</updated>
-        <summary type="html"><![CDATA[It’s very popular to put a $ on lines that are intended to be a command in code documentation that involves the terminal (i.e. the command line).
-Like this:
-$ brew install somepackage
-The point of that is that it …
-The post To $ or Not to $: Displaying Terminal Code Snippets appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Show Images on Click]]></title>
-        <id>https://css-tricks.com/?p=341020</id>
-        <link href="https://css-tricks.com/how-to-show-images-on-click/"/>
-        <updated>2021-05-27T14:25:29.000Z</updated>
-        <summary type="html"><![CDATA[Most images on the web are superfluous. If I might be a jerk for a bit, 99% of them aren’t even that helpful at all (although there are rare exceptions). That’s because images don’t often complement the text they’re …
-The post How to Show Images on Click appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Useful VS Code Extensions For Front-End Developers]]></title>
-        <id>https://smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/</id>
-        <link href="https://smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/"/>
-        <updated>2021-05-27T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Meet useful Visual Studio Code extensions for web developers: little helpers to minimize slow-downs and frustrations, and boost developer’s workflow along the way. With auto log messages, auto code formatting, file utils, file labels, code snippets, highlight brackets, tags, indents and workspaces, onboarding and remote SSH.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Build And Launch Powerful Responsive Websites With Editor X]]></title>
-        <id>https://smashingmagazine.com/2021/05/build-launch-responsive-websites-editorx/</id>
-        <link href="https://smashingmagazine.com/2021/05/build-launch-responsive-websites-editorx/"/>
-        <updated>2021-05-27T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[While web builders have been around for a long time, it wasn’t until recently that they became practical for professional use. Closing the gap between design and code has become the north star for many companies and we are seeing a wave of tools that deliver on this promise.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Miroslav Bekyarov)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Accessible SVGs: Perfect Patterns For Screen Reader Users]]></title>
-        <id>https://smashingmagazine.com/2021/05/accessible-svg-patterns-comparison/</id>
-        <link href="https://smashingmagazine.com/2021/05/accessible-svg-patterns-comparison/"/>
-        <updated>2021-05-26T13:20:00.000Z</updated>
-        <summary type="html"><![CDATA[Discover which SVG patterns we should avoid and which patterns are the most inclusive when comparing different combinations of OSs, browsers, and screen readers.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Carie Fisher)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.9.0]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.9.0</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.9.0"/>
-        <updated>2021-05-26T06:02:55.000Z</updated>
-        <summary type="html"><![CDATA[Added: experimental support for iTunes podcast feed: Demo | Source. With this new release, you can render an audio control to play the mp3 file and display iTunes episode duration. It is "experimental" due to these caveats:
+        <title type="html"><![CDATA[[信息安全] 由一个电子指纹锁想到的,难道指纹锁内部存储密码都是明文？]]></title>
+        <id>https://www.v2ex.com/t/781468#reply31</id>
+        <link href="https://www.v2ex.com/t/781468#reply31"/>
+        <updated>2021-06-04T14:34:45.000Z</updated>
+        <summary type="html"><![CDATA[最近买了一个销量很高的指纹锁装上了（牌子就不说了），
+说实话各种体验都挺好。很人性化。很赞，我都想买个蓝牙网关把它的功能都玩一玩。
+但是，（对，凡事就怕但是）
+if (INPUTSTRING.contains(realPsw){
+   openTheDoor （）
+}
 
-This feature is currently only available through custom template.
-iTunes has no strict format requirement for duration. The unit is most likely seconds but can be "hh:mm:ss" or "mm:ss" for some sources. A future version may expose a human readable string to the template.
-No image support yet. Some shows might have disabled CORS or use a relative URL for image, which forces osmosfeed to download the image during build. A future version may support it.
-You can't republish the podcast in the feed output. Supporting this goes beyond the scope of the project at the moment.
-Fixed: the articles in template data were not sorted.
-Thank you @Zenigata]]></summary>
+--
+这样不是可能存在漏洞让人通过内存嗅探到密码，当然单人单户可能不值得这么去破解，如果破解这一个型号的锁，应该也是有人做的吧。
+如果他是加密存储的密码，如果那么验证也太飞快了吧，每个不定长子串都加密或者 Hash 匹配一次，也是很大的次数吧。（应该超过多项式复杂度了吧）
+我目前知道的，防止人暴力枚举的方法是PBKDF2， 让每次尝试的时间成本很大，（当然对嵌入式设备，尤其是没插电的，可能有更省电的方式）而不是简单的程序判断错误次数超过阈值就休眠，因为这个内存中这个次数对于金手指来说是可编辑的。
+我当然知道这只是一个 1000 块的东西，可是安全问题，多考虑一下也没什么问题。
+由于本人所知有限，有错误的话，希望大家指正，谢谢。]]></summary>
         <author>
-            <name>Release notes from osmosfeed</name>
+            <name>V2EX</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Guide To Undoing Mistakes With Git (Part 2)]]></title>
-        <id>https://smashingmagazine.com/2021/05/undoing-mistakes-git-part2/</id>
-        <link href="https://smashingmagazine.com/2021/05/undoing-mistakes-git-part2/"/>
-        <updated>2021-05-25T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Mistakes. These cruel villains do not even stop at the beautiful world of software development. But although we cannot avoid making mistakes, we can learn to undo them! This post will show the right tools for your daily work with Git.]]></summary>
+        <title type="html"><![CDATA[[问与答] 快速创建一个 Linux 环境，可以用 docker 吗]]></title>
+        <id>https://www.v2ex.com/t/781467#reply8</id>
+        <link href="https://www.v2ex.com/t/781467#reply8"/>
+        <updated>2021-06-04T14:25:51.000Z</updated>
+        <summary type="html"><![CDATA[比如我想试一下某个 cmake 项目的安装，里面可能会在 linux 一些目录装很多东西，因为我对整个流程还不太熟悉，再加上有一点强迫症，不想让这些东西污染我的系统环境
+因为之前好像听说 docker 更多用于项目部署，而不是像虚拟机一样，开个容器再进去操作。]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Tobias Günther)</name>
+            <name>V2EX</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A New Way To Reduce Font Loading Impact: CSS Font Descriptors]]></title>
-        <id>https://smashingmagazine.com/2021/05/reduce-font-loading-impact-css-descriptors/</id>
-        <link href="https://smashingmagazine.com/2021/05/reduce-font-loading-impact-css-descriptors/"/>
-        <updated>2021-05-25T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Web fonts are often terrible for web performance and none of the font loading strategies are particularly effective to address that. Upcoming font options may finally deliver on the promise of making it easier to align fallback fonts to the final fonts.]]></summary>
+        <title type="html"><![CDATA[[分享发现] 程序员做设计]]></title>
+        <id>https://www.v2ex.com/t/781466#reply9</id>
+        <link href="https://www.v2ex.com/t/781466#reply9"/>
+        <updated>2021-06-04T14:21:29.000Z</updated>
+        <summary type="html"><![CDATA[没有设计师，只能自己上了，历时 2 天，终于做出这版设计，还挺满意。不得不说，做产品很艰辛，但很快乐！
+预览：]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Barry Pollard)</name>
+            <name>V2EX</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CSS Container Queries: Use-Cases And Migration Strategies]]></title>
-        <id>https://smashingmagazine.com/2021/05/css-container-queries-use-cases-migration-strategies/</id>
-        <link href="https://smashingmagazine.com/2021/05/css-container-queries-use-cases-migration-strategies/"/>
-        <updated>2021-05-24T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[CSS Container queries bring media queries closer to the target elements themselves and enables them to adapt to virtually any given container or layout. In this article, we’re going to cover CSS container query basics and how to use them today with progressive enhancement or polyfills.]]></summary>
+        <title type="html"><![CDATA[[Android] 单纯想体验 miui 的话哪个机型合适？]]></title>
+        <id>https://www.v2ex.com/t/781465#reply19</id>
+        <link href="https://www.v2ex.com/t/781465#reply19"/>
+        <updated>2021-06-04T14:09:36.000Z</updated>
+        <summary type="html"><![CDATA[想收个小米系手机体验 miui 。
+不在乎拍照、扬声器、防水、扬声器马达这些。
+只看重充电速度，屏幕素质，重量以及后续 miui 的升级优先度的话应该选择哪款机型呢。
+之前体验过 10s，对比 find x3，虽然只差了 15g，但是握在手上感觉差异特别大。]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Adrian Bece)</name>
+            <name>V2EX</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[v1.8.1]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.8.1</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.8.1"/>
-        <updated>2021-05-23T05:40:12.000Z</updated>
-        <summary type="html"><![CDATA[Fixed: UnhandledPromiseRejectionWarning: Error: At least one option must be a string]]></summary>
+        <title type="html"><![CDATA[[职场话题] 南京亚信有人了解吗？]]></title>
+        <id>https://www.v2ex.com/t/781464#reply5</id>
+        <link href="https://www.v2ex.com/t/781464#reply5"/>
+        <updated>2021-06-04T13:56:03.000Z</updated>
+        <summary type="html"><![CDATA[苏州的工作地点。不知道发展怎么样。有了解的能说说吗？多谢]]></summary>
         <author>
-            <name>Release notes from osmosfeed</name>
+            <name>V2EX</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[v1.8.0]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.8.0</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.8.0"/>
-        <updated>2021-05-23T05:12:08.000Z</updated>
-        <summary type="html"><![CDATA[Changed: Smart summary truncation. When there is no dedicated summary (only Atom feed has it, and many sites don't use it) from the source, we check if the content/description (Both Atom and RSS) field is long enough to be full text. If so, it will be truncated into a "pseudo" summary. If not, we assume the source used the content field as summary, and it will be displayed in full length.
-Thank you: @LooperXX.]]></summary>
+        <title type="html"><![CDATA[[求职] 求一个深圳的 C++ 开发岗位]]></title>
+        <id>https://www.v2ex.com/t/781463#reply0</id>
+        <link href="https://www.v2ex.com/t/781463#reply0"/>
+        <updated>2021-06-04T13:55:47.000Z</updated>
+        <summary type="html"><![CDATA[本人有 9 年的移动端跨平台开发经验。
+编程语言擅长：C++ 和 python 。
+其他语言可使用: lua/swift/java/OC/js
+可以自己独立做应用的客户端、服务端、web 前端
+行业上在音乐教育，数字乐器控制这个方向最多经验。懂乐理，能演奏一点乐器。
+还做过一些流媒体和 GIS 相关的检索工作。
+擅长问题攻关，工具开发。为人谦和有趣，沟通顺畅。
+之前一直在北京，但是北京最后一家单位破产解散了。
+和女友来到她老家深圳。
+音乐相关，自动驾驶是两个我最想做的行业。
+和金融相关的，加密货币这种是我不想做的（不知道为什么深圳这种单位超多）
+其他行业也都行。
+因为只有大专学历，这是硬伤。很难过许多简历筛选。这个是我不得不面对和接受的现实问题。
+有想过提升学历，但是目前还一直没有合适的时机。
+技术没有多厉害，但是确实一直能解决各种问题。经历过的每一家单位同事都对我有很好的评价。
+这里有我的简历，希望有合适的岗位 xdm 能帮忙内推内推。
+aHR0cHM6Ly9waXBpLnBhZGFvLmZ1bi8lRTUlQkMlQTAlRTUlQUUlODclRTklQTMlOUUtQysrLSVFNCVCOCVBQSVFNCVCQSVCQSVFNyVBRSU4MCVFNSU4RSU4Ni5wZGYK]]></summary>
         <author>
-            <name>Release notes from osmosfeed</name>
+            <name>V2EX</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building A Rich Text Editor (WYSIWYG)]]></title>
-        <id>https://smashingmagazine.com/2021/05/building-wysiwyg-editor-javascript-slatejs/</id>
-        <link href="https://smashingmagazine.com/2021/05/building-wysiwyg-editor-javascript-slatejs/"/>
-        <updated>2021-05-21T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Let’s build a rich text, WYSIWYG-editor that supports rich text, images, links and some nuanced features from word processing apps. We will use SlateJS to build the shell of the editor and then add a toolbar and custom configurations.]]></summary>
+        <title type="html"><![CDATA[[Apple] AirPods 使用寿命只有 3 年吗?]]></title>
+        <id>https://www.v2ex.com/t/781462#reply0</id>
+        <link href="https://www.v2ex.com/t/781462#reply0"/>
+        <updated>2021-06-04T13:55:11.000Z</updated>
+        <summary type="html"><![CDATA[买了 1 代、2 代两套产品。
+每套都是使用不足 3 年就基本很难使用了
+不是电池不给力 就是其中某一个耳机坏了
+不算高频使用，每周 1-2 次，每次不超过 3 小时。
+让我有点考虑还要不要再买新的了。]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Shalabh Vyas)</name>
+            <name>V2EX</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Boost Your Skills Online: Smashing Workshops On Front-End And Design]]></title>
-        <id>https://smashingmagazine.com/2021/05/new-online-workshops-front-end-ux/</id>
-        <link href="https://smashingmagazine.com/2021/05/new-online-workshops-front-end-ux/"/>
-        <updated>2021-05-20T14:20:00.000Z</updated>
-        <summary type="html"><![CDATA[Front-end and design are remarkably complex these days. That’s why we invite kind, smart folks from the community to run online workshops for all of us to learn together. And we have new ones coming up, and we’d like to kindly welcome you to join in.]]></summary>
+        <title type="html"><![CDATA[[酷工作] [杭州] 替公司发个招聘贴（招聘 Java 技术总监 20-40k*14 薪）]]></title>
+        <id>https://www.v2ex.com/t/781461#reply0</id>
+        <link href="https://www.v2ex.com/t/781461#reply0"/>
+        <updated>2021-06-04T13:51:13.000Z</updated>
+        <summary type="html"><![CDATA[需要一名技术过硬的 5 年开发经验的技术总监（直接 boss 投简历吧）
+岗位职责：
+1 、负责公司前端技术架构和核心代码编写，不断优化产品性能。改善用户体验，完善前端技术基础组件、平台和开发流程规范，提升前端研发效率和质量。
+2 、负责产品线的服务端设计、开发，保证产品的快速迭代，负责技术平台和效率工具的开发，提升平台运营效率。
+岗位要求：
+1 、有 5 年以上开发经验，有扎实的技术基础，有较强的动手能力，有浓厚的技术热情。
+2 、精通 Java 、熟悉 Linux 环境、熟悉分布式框架微服务、常见的 MVC 框架、消息队列和数据库等中间件技术。
+3 、在业务高速增长的环境下，完成产品快速迭代开发需求，有过微信小程序、移动 APP 开发经验（必须）。
+4 、熟知 HTTP 协议、浏览器原理、熟悉 W3C 规范。
+5 、至少掌握两种开发语言
+6 、本岗位部门目前有两个后端、两个前端，工作内容后端开发为主，附带前端，以及开发组管理。
+公司介绍：
+深中青云谷智游（杭州）科技有限公司成立于 2020 年 11 月，注册资金 5000 万。公司目前拥有由阿里云、中青旅投资控股（深圳）有限公司、杭州云谷智游科技有限公司强强联手共同打造的智慧旅游平台——云谷智游。云谷智游依托于智能终端，以 Vlog 为入口，集成购物、检票、语音导游、虚拟导航、停车服务、旅行记录短视频、休闲、购物等功能为一体的智慧旅游平台，为每个游客提供旅行服务。
+优点：公司资源多项目挺好，业务快速增长，技术部氛围好，都很年轻很好相处，加班很少，每个月有 500 餐补，技术部一起吃饭
+缺点：初创团队，没有技术把关人，需要你要当技术总监]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Iris Lješnjanin)</name>
+            <name>V2EX</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How To Implement Authentication In Next.js With Auth0]]></title>
-        <id>https://smashingmagazine.com/2021/05/implement-authentication-nextjs-auth0/</id>
-        <link href="https://smashingmagazine.com/2021/05/implement-authentication-nextjs-auth0/"/>
-        <updated>2021-05-20T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A step-by-step tutorial on adding authentication and authorization to your Next.js apps, with Auth0. We’ll be using a Next.js SDK to connect our application to the Auth0 API and will create the dynamic API route for React.]]></summary>
+        <title type="html"><![CDATA[[Google Cloud] google cloud 月结算账单只有 0.02 港币，结算的时候却扣了 8 块，好像是手续费？]]></title>
+        <id>https://www.v2ex.com/t/781460#reply1</id>
+        <link href="https://www.v2ex.com/t/781460#reply1"/>
+        <updated>2021-06-04T13:35:08.000Z</updated>
+        <summary type="html"><![CDATA[之前没注意，还一直以为是美金的汇率，这个月扣款失败了才发现，选的是港币区
+手动付款可以解决，而且没有手续费，100 块钱余额留着应该会够用挺久了😂]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Facundo Giuliani)</name>
+            <name>V2EX</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Frustrating Design Patterns: Mega-Dropdown Hover Menus]]></title>
-        <id>https://smashingmagazine.com/2021/05/frustrating-design-patterns-mega-dropdown-hover-menus/</id>
-        <link href="https://smashingmagazine.com/2021/05/frustrating-design-patterns-mega-dropdown-hover-menus/"/>
-        <updated>2021-05-19T11:40:00.000Z</updated>
-        <summary type="html"><![CDATA[Everything to keep in mind when designing and building a mega-dropdown, common pitfalls, hover entry/exit delays, trajectory triangle technique and SVG path exit areas.]]></summary>
+        <title type="html"><![CDATA[[问与答] 只有 chrome 打不开 greasyfork...]]></title>
+        <id>https://www.v2ex.com/t/781459#reply1</id>
+        <link href="https://www.v2ex.com/t/781459#reply1"/>
+        <updated>2021-06-04T13:33:15.000Z</updated>
+        <summary type="html"><![CDATA[电脑的 edge，ie 都能打开 greasyfork，手机也能直接打开。只有 chrome 不行。
+感觉应该不是网络问题，是 chrome 的问题。尝试把 chrome 插件都关了，还是不行。
+有人知道还有哪些可能可以排查吗？]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+            <name>V2EX</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How To Create, Edit And Animate SVGs All In One Place With SVGator 3.0]]></title>
-        <id>https://smashingmagazine.com/2021/05/create-edit-animate-svg-svgator3/</id>
-        <link href="https://smashingmagazine.com/2021/05/create-edit-animate-svg-svgator3/"/>
-        <updated>2021-05-18T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Today, we are taking a closer look at [SVGator 3.0](https://www.svgator.com/?utm_source=article&utm_medium=smashingmag&utm_campaign=svgator3_smashing), a new major release of the popular SVG application that lets you create, edit and animate SVG files and make the best out of what SVG has to offer — from start to finish.]]></summary>
+        <title type="html"><![CDATA[[NAS] PT 下载负载高，该升级硬盘还是 cpu 啊？]]></title>
+        <id>https://www.v2ex.com/t/781458#reply11</id>
+        <link href="https://www.v2ex.com/t/781458#reply11"/>
+        <updated>2021-06-04T13:21:54.000Z</updated>
+        <summary type="html"><![CDATA[300M 宽带，N2600，1g 内存，PT 下载 20 到 30M/s，负载经常 4 到 5 点几，如果这时候播放就会卡顿，是 cpu 还是硬盘不够啊？
+谢谢！]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Mikołaj Dobrucki)</name>
+            <name>V2EX</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Smashing Podcast Episode 37 With Adam Argyle: What Is VisBug?]]></title>
-        <id>https://smashingmagazine.com/2021/05/smashing-podcast-episode-37/</id>
-        <link href="https://smashingmagazine.com/2021/05/smashing-podcast-episode-37/"/>
-        <updated>2021-05-18T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this episode, we’re talking about VisBug. What is it, and how is it different from the array of options already found in Chrome DevTools? Drew McLellan talks to its creator Adam Argyle to find out.]]></summary>
+        <title type="html"><![CDATA[[Java] 项目升级花了一天的时间解决各种冲突]]></title>
+        <id>https://www.v2ex.com/t/781457#reply14</id>
+        <link href="https://www.v2ex.com/t/781457#reply14"/>
+        <updated>2021-06-04T12:58:51.000Z</updated>
+        <summary type="html"><![CDATA[所谓的企业级项目，无数个依赖包，老旧的包版本，版本互相冲突
+再加上 java 让人头晕的各种框架
+要命了]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Drew McLellan)</name>
+            <name>V2EX</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How We Improved Our Core Web Vitals (Case Study)]]></title>
-        <id>https://smashingmagazine.com/2021/05/core-web-vitals-case-study/</id>
-        <link href="https://smashingmagazine.com/2021/05/core-web-vitals-case-study/"/>
-        <updated>2021-05-17T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Google’s “Page Experience Update” will start rolling out in June. At first, sites that meet Core Web Vitals thresholds will have a minor ranking advantage in mobile search for all browsers. Search is important to any business, and this is the story of how Beau Hartshorne and his team at Instant Domain Search improved their Core Web Vitals scores.]]></summary>
+        <title type="html"><![CDATA[[汽车] 开车远光灯]]></title>
+        <id>https://www.v2ex.com/t/781454#reply12</id>
+        <link href="https://www.v2ex.com/t/781454#reply12"/>
+        <updated>2021-06-04T12:45:27.000Z</updated>
+        <summary type="html"><![CDATA[一条狭窄的路，前面有骑自行车的人，后面的车不停地用远光灯闪我，停车等红绿灯的时候还故意开远光灯恶心我，这种人就没办法治嘛]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Beau Hartshorne)</name>
+            <name>V2EX</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[v1.7.2]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.2</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.2"/>
-        <updated>2021-05-17T05:32:19.000Z</updated>
-        <summary type="html"><![CDATA[⚠ Deprecated: To accommodate the monorepo setup, the node version in all templates/demos/examples has changed from 14 to 16. This is not a breaking change as our compile target is still node 14, and node 16 is backward compatible. We still recommend you start using node-version: "16" in your .github/workflows/update-feed.yaml today to get the performance/security improvements from the newer node. See example
-Chore: Reorganize to monorepo with npm workspace.]]></summary>
+        <title type="html"><![CDATA[[宽带症候群] 求教：在本机有两个 IP 的情况下，如何实现使用指定 IP 访问指定地址？]]></title>
+        <id>https://www.v2ex.com/t/781453#reply0</id>
+        <link href="https://www.v2ex.com/t/781453#reply0"/>
+        <updated>2021-06-04T12:37:18.000Z</updated>
+        <summary type="html"><![CDATA[先谢过各位大佬！
+本机网络现状：在 WINDOWS 网络设置中添加了两个 IP，分别为 10.10.10.10 与 192.168.1.5
+设置方式： https://jingyan.baidu.com/article/60ccbceb05c64164cbb1974e.html
+需求：使用 10.10.10.10 访问指定网站。
+出现的问题： 使用 IE 直接访问目的网站，根据网站方反馈，收到的我的 IP 信息为 192.168.1.5
+由于不懂这一块，也请教了同事还是没有搞明白，所以想向 V 站老哥求助。/拜谢.jpg]]></summary>
         <author>
-            <name>Release notes from osmosfeed</name>
+            <name>V2EX</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[v1.7.1]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.1</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.1"/>
-        <updated>2021-05-16T02:33:58.000Z</updated>
-        <summary type="html"><![CDATA[Fixed: static files were unnecessarily copied for custom templates.]]></summary>
+        <title type="html"><![CDATA[[macOS] macOS11.2.3 的 apple music 是不是有 BUG]]></title>
+        <id>https://www.v2ex.com/t/781450#reply1</id>
+        <link href="https://www.v2ex.com/t/781450#reply1"/>
+        <updated>2021-06-04T12:14:49.000Z</updated>
+        <summary type="html"><![CDATA[[现在就听]
+和
+[浏览] 
+这 2 个选项，不能点击，一点击就跳转到下面的 [专辑] 标签页了]]></summary>
         <author>
-            <name>Release notes from osmosfeed</name>
+            <name>V2EX</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[v1.7.0]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.0</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.0"/>
-        <updated>2021-05-16T01:42:24.000Z</updated>
-        <summary type="html"><![CDATA[Added: templating system. Demo | Source | Docs
-Chore: rendering logic refactoring. Adopting functional paradigm.
-Thank you @tianheg, @onnyyonn]]></summary>
+        <title type="html"><![CDATA[[问与答] Linux kvm 有推荐的 web 管理界面吗？]]></title>
+        <id>https://www.v2ex.com/t/781449#reply7</id>
+        <link href="https://www.v2ex.com/t/781449#reply7"/>
+        <updated>2021-06-04T12:12:46.000Z</updated>
+        <summary type="html"><![CDATA[一台服务器，ubuntu 2004 系统，目前资源空闲严重。
+打算在上面跑下测试虚拟机，需要支持 windows 、linux 虚拟机。
+主要用途是需要时手工启动 windows 、linux 虚拟机并 web 界面 控制执行测试。
+物理机的 ubuntu 操作系统不能动，请问有什么比较好的 web 界面推荐吗？]]></summary>
         <author>
-            <name>Release notes from osmosfeed</name>
+            <name>V2EX</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tree-Shaking: A Reference Guide]]></title>
-        <id>https://smashingmagazine.com/2021/05/tree-shaking-reference-guide/</id>
-        <link href="https://smashingmagazine.com/2021/05/tree-shaking-reference-guide/"/>
-        <updated>2021-05-14T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[“Tree-shaking” is a must-have performance optimization when bundling JavaScript. In this article, we dive deeper on how exactly it works and how specs and practice intertwine to make bundles leaner and more performant. Plus, you’ll get a tree-shaking checklist to use for your projects.]]></summary>
+        <title type="html"><![CDATA[[生活] 想了解一下为什么奢侈品能让女生这么的向往]]></title>
+        <id>https://www.v2ex.com/t/781448#reply65</id>
+        <link href="https://www.v2ex.com/t/781448#reply65"/>
+        <updated>2021-06-04T11:59:51.000Z</updated>
+        <summary type="html"><![CDATA[事情是这样的，今天我妹生日，我就问了一下她想要点啥，她给我发了一个 ysl 的包包，价格是 1 万 6，我有点震惊了。
+我简单介绍一下自己的情况，我妹是香港本科毕业，在香港拿着月薪 15k 左右吧，我自己一个单身🐶程序猿，年薪也就 30 多，家里只能算正常吧，反正是没什么积蓄。
+我跟我妹的关系还算比较好的，我也比较宠她吧，去年炒币赚了点小钱就全给她换了个 12，之前她用的好像是 7 吧，个人觉得换手机对生活还是有不少的提升的（我自己用的荣耀 30 ）.
+回到这个话题上，本来我是想，如果她工作上有需要用电脑比较多，其实我也愿意花点钱给她换个 MBA 或者 MBP 的，结果这么一搞，我现在都不知道咋回了，虽然她也一直在说这个太贵了，想换一个给我看看，但是我能看的到出来她应该还是很喜欢的。
+可能真的是老了跟不上潮流了]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Átila Fassina)</name>
+            <name>V2EX</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Frustrating Design Patterns That Need Fixing: Birthday Picker]]></title>
-        <id>https://smashingmagazine.com/2021/05/frustrating-design-patterns-birthday-picker/</id>
-        <link href="https://smashingmagazine.com/2021/05/frustrating-design-patterns-birthday-picker/"/>
-        <updated>2021-05-12T12:42:00.000Z</updated>
-        <summary type="html"><![CDATA[In this new series of articles on UX, we take a closer look at some frustrating design patterns and explore better alternatives, along with plenty of examples to keep in mind when building or designing one. Let’s start with an infamous birthday picker.]]></summary>
+        <title type="html"><![CDATA[[NAS] 关于在群晖上使用 youtube-dl 的问题]]></title>
+        <id>https://www.v2ex.com/t/781446#reply5</id>
+        <link href="https://www.v2ex.com/t/781446#reply5"/>
+        <updated>2021-06-04T11:35:34.000Z</updated>
+        <summary type="html"><![CDATA[我在 docker 上成功安装了 youtube-dl，可以正常下载 youtube/b 站等视频，现在有一个问题就是下载的视频只能保存到电脑，不能保存到 NAS 。打开程序界面有下载的设置，但是不知道怎么设置，我想默认保存到 NAS 上，在作者的 GitHub 上没找到相关的说明，特来求助。（ docker 里默认没有映射卷）
+docker 地址： https://registry.hub.docker.com/r/tzahi12345/youtubedl-material/]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+            <name>V2EX</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Little Smashing Stories]]></title>
-        <id>https://smashingmagazine.com/2021/05/little-smashing-stories/</id>
-        <link href="https://smashingmagazine.com/2021/05/little-smashing-stories/"/>
-        <updated>2021-05-12T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Today marks the day we sent out our 300th edition of the Smashing Newsletter. This article is a little celebration in which we share little Smashing stories from people working behind the scenes.]]></summary>
+        <title type="html"><![CDATA[[知乎] 学位证、房产证等重要证件放哪里好？]]></title>
+        <id>https://www.v2ex.com/t/781444#reply1</id>
+        <link href="https://www.v2ex.com/t/781444#reply1"/>
+        <updated>2021-06-04T11:22:37.000Z</updated>
+        <summary type="html"><![CDATA[学位证、房产证等重要证件放哪里好？
+如果火灾怎么办？
+有没有什么材料的盒子可以避免火灾烧毁？]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+            <name>V2EX</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Primer On CSS Container Queries]]></title>
-        <id>https://smashingmagazine.com/2021/05/complete-guide-css-container-queries/</id>
-        <link href="https://smashingmagazine.com/2021/05/complete-guide-css-container-queries/"/>
-        <updated>2021-05-11T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[A prototype of the long-awaited CSS container queries has landed in Chrome Canary and is available for experimentation. Let’s look at what problem is being solved, learn how container queries work, and see how they compare with and complement existing CSS features for layout.]]></summary>
+        <title type="html"><![CDATA[[问与答] 请问有没有在 PDD 百亿补贴购买的 iPhone 12 发货的？]]></title>
+        <id>https://www.v2ex.com/t/781442#reply4</id>
+        <link href="https://www.v2ex.com/t/781442#reply4"/>
+        <updated>2021-06-04T11:12:48.000Z</updated>
+        <summary type="html"><![CDATA[是没货可发，还是什么不可周知的原因、、]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Stephanie Eckles)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Conference Platform We Use For Our Online Events: Hopin]]></title>
-        <id>https://smashingmagazine.com/2021/05/smashingconf-conference-platform-hopin/</id>
-        <link href="https://smashingmagazine.com/2021/05/smashingconf-conference-platform-hopin/"/>
-        <updated>2021-05-11T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[At the beginning of 2020, the SmashingConf team was ready for a new year. We had so many things that excited us. New speakers, new workshops, new cities, new attendees, new experiences. And as we all know, 2020 had other ideas. With so many people working from home, we thought we would bring our [Smashing workshops](https://smashingconf.com/online-workshops/) from our home offices to yours — but how?]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Amanda Annandale)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Get Started With React By Building A Whac-A-Mole Game]]></title>
-        <id>https://smashingmagazine.com/2021/05/get-started-whac-a-mole-react-game/</id>
-        <link href="https://smashingmagazine.com/2021/05/get-started-whac-a-mole-react-game/"/>
-        <updated>2021-05-10T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Want to get started with React but struggling to find a good place to start? This article should have you covered. We’ll focus on some of the main concepts of React and then we’ll be building a game from scratch!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Jhey Tompkins)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.4.0]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.4.0</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.4.0"/>
-        <updated>2021-05-10T08:55:42.000Z</updated>
-        <summary type="html"><![CDATA[Added: Basic theme customization: Demo | Source | Docs.]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.6.0]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.6.0</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.6.0"/>
-        <updated>2021-05-10T08:15:20.000Z</updated>
-        <summary type="html"><![CDATA[Added: Link from the title of a subscription to its website.
-Added: Store feedUrl and siteUrl for each source in cache.
-Added: Semantic element (<time>) for timestamp on the UI.
-Added: Semantic API for theming the default template. Demo | Source | Docs
-Changed: Moved feed metadata from article level to feed level in cache.
-Fixed: Any html-like text was stripped from title. Fixed with encoded text.
-Removed: href for each source in cache. The value was never used so it's not a breaking change.]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.5.0]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.5.0</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.5.0"/>
-        <updated>2021-05-08T05:16:47.000Z</updated>
-        <summary type="html"><![CDATA[Added: Atom feed generator
-Added: Customizable site title
-Added: Copy all files from static directory to the root of the site.
-Changed: Favicon, css, and js assets now existing at site root level.
-Chore: Excluded testing files from repo.]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Organize Product-Related Assets And Collaborate Better]]></title>
-        <id>https://smashingmagazine.com/2021/05/product-records-organization-collaboration-best-practices/</id>
-        <link href="https://smashingmagazine.com/2021/05/product-records-organization-collaboration-best-practices/"/>
-        <updated>2021-05-07T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How do you organize your Google Drive assets? How do you name your Dropbox Paper documents? How do you deal with comments? Let’s get it right.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Valeriia Panina)</name>
+            <name>V2EX</name>
         </author>
     </entry>
 </feed>
