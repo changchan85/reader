@@ -1,698 +1,823 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-08T00:36:40.048Z</id>
+    <id>urn:2021-06-09T00:17:43.503Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-08T00:36:40.048Z</updated>
+    <updated>2021-06-09T00:17:43.503Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[[Apple] 有下载 wwdc 21 字幕的方案吗？]]></title>
-        <id>https://www.v2ex.com/t/782037#reply1</id>
-        <link href="https://www.v2ex.com/t/782037#reply1"/>
-        <updated>2021-06-08T00:27:51.000Z</updated>
-        <summary type="html"><![CDATA[官网观看有中文字幕，请问如何下载该字幕？]]></summary>
+        <title type="html"><![CDATA[[MacBook Pro] 大家都是怎么对付触摸板误触问题的？]]></title>
+        <id>https://www.v2ex.com/t/782289#reply2</id>
+        <link href="https://www.v2ex.com/t/782289#reply2"/>
+        <updated>2021-06-08T23:21:23.000Z</updated>
+        <summary type="html"><![CDATA[网络工程师一枚，每天都要跟 SecureCRT 打交道，每天都会因为鱼际误触打断操作 n 次（ n > 20 ）。大家都是咋对付误触的？
+我现在暂时是先外接了个键盘，然而触摸板的确有好用的地方也不想舍弃。]]></summary>
         <author>
             <name>V2EX</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[分享创造] TypeScript 教程，第二次分享教程]]></title>
-        <id>https://www.v2ex.com/t/782035#reply0</id>
-        <link href="https://www.v2ex.com/t/782035#reply0"/>
-        <updated>2021-06-08T00:12:09.000Z</updated>
-        <summary type="html"><![CDATA[去年五月份在 V 站分享了自己写的 Babel 教程 https://v2ex.com/t/669498
-意外地非常受欢迎，于是之后又写了 Webpack 教程。没想到 10 月份 Webpack5 发布了，Webpack4 教程关于优化与原理的内容就没再更新了，便开始写 Webpack5 的教程了，等完成了会分享出来的。
-现在也在写一份 TypeScript 的教程，主要从自己使用 TS 时不容易理解的角度出发来写，例如接口和泛型等概念。这份教程目前在撰写中，也希望 V 友们多多提一些建议。
-教程地址 TypeScript 教程 - 姜瑞涛的官方网站，配套的代码在 github  https://github.com/jruit/typescript-tutorial]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[分享创造] 欢迎订阅 https://t.me/covid19by2021]]></title>
-        <id>https://www.v2ex.com/t/782034#reply2</id>
-        <link href="https://www.v2ex.com/t/782034#reply2"/>
-        <updated>2021-06-08T00:09:21.000Z</updated>
-        <summary type="html"><![CDATA[分享创造 - @labulaka521 -]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Linux] 平铺桌面 awesome 配置]]></title>
-        <id>https://www.v2ex.com/t/782033#reply0</id>
-        <link href="https://www.v2ex.com/t/782033#reply0"/>
-        <updated>2021-06-07T23:37:48.000Z</updated>
-        <summary type="html"><![CDATA[rc.lua 可以支持很多自定义的，不会 lua，有木有从入门到入土的一系列参考，或者主题推荐。]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Apple] Mac 实现 AirPlay，昨天还有个老哥问为啥不支持，今天就有了。。]]></title>
-        <id>https://www.v2ex.com/t/782032#reply13</id>
-        <link href="https://www.v2ex.com/t/782032#reply13"/>
-        <updated>2021-06-07T23:24:56.000Z</updated>
-        <summary type="html"><![CDATA[同时，一直被大家喜欢的 AirPlay 功能如今也可以应用在 Mac 上了，我们可以把 iPhone 等设备的视频、音频投射到 Mac 上播放，让设备之间的界限彻底消失.]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Apple] wwdc 开过去了，但是一觉醒来连讨论的人都没]]></title>
-        <id>https://www.v2ex.com/t/782031#reply5</id>
-        <link href="https://www.v2ex.com/t/782031#reply5"/>
-        <updated>2021-06-07T23:23:37.000Z</updated>
-        <summary type="html"><![CDATA[我甚至以为不是今天开
-iOS15 这么拉垮吗]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Android] Titanium Backup 跟安卓 11 不兼容吗？明明给了 root 却说拿不到 root 权限]]></title>
-        <id>https://www.v2ex.com/t/782030#reply3</id>
-        <link href="https://www.v2ex.com/t/782030#reply3"/>
-        <updated>2021-06-07T22:43:42.000Z</updated>
-        <summary type="html"><![CDATA[想试一下最新的 Titanium 是不是能备份 /还原工作空间里的 app，在安卓 11 上安装了最新的谷歌市场下载的版本，但是明明给了 root 权限，运行的时候却提示错误说拿不到 root，见图：i.imgur.com/sN1WkLC.png ，这什么原因？]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Apple] iOS15 更新内容汇总]]></title>
-        <id>https://www.v2ex.com/t/782029#reply12</id>
-        <link href="https://www.v2ex.com/t/782029#reply12"/>
-        <updated>2021-06-07T22:37:34.000Z</updated>
-        <summary type="html"><![CDATA[体验了一个多小时，发现了以下更新内容，有新发现可以跟帖补充。
-Feature：
-1，锁屏通知重新设计，四周加个圆角。
-2，控制中心新增专注模式。
-3，照片可以显示 exif 信息，存储自某某位置，app 或者相机，还可以编辑照片日期。
-4，天气重新设计，卡片式信息流，空气质量按地图显示（第三方天气 app 可以卸载了）。
-5，闹钟日期设定回归拨动式（好评）。
-6，输入法有白底。
-7，Safari 浏览器重新设计，地址栏放到了底下，更美观了（但是我还不会用）。
-8，照片增加 ocr 识别，长按可复制粘贴。
-9，iCloud 新增专用转接代理（不明白用途）。
-Bug：
-1，微信朋友圈不能发视频。
-2，汉化不完全，粘贴显示 paste]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Apple] 怎么开启 universal control]]></title>
-        <id>https://www.v2ex.com/t/782028#reply0</id>
-        <link href="https://www.v2ex.com/t/782028#reply0"/>
-        <updated>2021-06-07T22:30:44.000Z</updated>
-        <summary type="html"><![CDATA[iPad 和 MacBook 都升级到了最新系统，但是调试不出 universal control 。
-“Available on MacBook Pro (2016 and later), MacBook (2016 and later), MacBook Air (2018 and later), iMac (2017 and later), iMac (5K Retina 27-inch, Late 2015), iMac Pro, Mac mini (2018 and later), and Mac Pro (2019); and iPad Pro, iPad Air (3rd generation and later), iPad (6th generation and later), and iPad mini (5th generation and later). Both devices must be signed in to iCloud with the same Apple ID using two-factor authentication. To use wirelessly, both devices must have Bluetooth, Wi-Fi, and Handoff turned on and must be within 10 meters (30 feet) of each other. iPad and Mac must not be sharing a cellular and internet connection. To use over USB, you must trust your Mac on the iPad.”]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Apple] iPad 对代码工作者依旧还是那个玩具]]></title>
-        <id>https://www.v2ex.com/t/782027#reply3</id>
-        <link href="https://www.v2ex.com/t/782027#reply3"/>
-        <updated>2021-06-07T22:17:42.000Z</updated>
-        <summary type="html"><![CDATA[可以 build iOS APP on Swift Playgrounds.
-除此之外没了，对于非 iOS 程序员，依旧没有什么大用，那些妄图拿 ipad 当本子用的可以继续做等等党了。（只用 SSH 或者记事本写码的排除在外）
-我还是等下半年 intel Alder lake 的新 surface pro 或者新 macbook 好了]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Apple] 更新后出现莫名 Apple ID，求咨询指导]]></title>
-        <id>https://www.v2ex.com/t/782026#reply2</id>
-        <link href="https://www.v2ex.com/t/782026#reply2"/>
-        <updated>2021-06-07T21:35:23.000Z</updated>
-        <summary type="html"><![CDATA[使用 ibeta.me 的 developer beta 描述文件更新 iOS15，更新完成后出现了个 d91u16@icloud.com 的国区 Apple ID，且提示我要用中国大陆手机号添加双重认证，我通过选择“非大陆用户”跳过了这一步，直接进入了系统。进入后我去设置查看，iCloud 里仍然是我自己的美区 ID，请问这种情况是怎么回事？我该如何排查？……]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[macOS] 更新了 Monterey 后的 safari 我凌乱了]]></title>
-        <id>https://www.v2ex.com/t/782025#reply1</id>
-        <link href="https://www.v2ex.com/t/782025#reply1"/>
-        <updated>2021-06-07T21:28:09.000Z</updated>
-        <summary type="html"><![CDATA[这跑来跑去的游移不定的地址栏和莫名其妙的标签页，还有会变色的标题栏从亮瞎眼到黑瞎眼只需一秒，苹果的设计师这回是认真的吗？]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Apple] 更新了 iOS/iPadOS 15 Developer Beta]]></title>
-        <id>https://www.v2ex.com/t/782024#reply5</id>
-        <link href="https://www.v2ex.com/t/782024#reply5"/>
-        <updated>2021-06-07T20:03:32.000Z</updated>
-        <summary type="html"><![CDATA[第一感觉就是整个系统的 UI 动画都比 iOS 14 流畅了好多，用了一会没发现什么大问题，大家如果发现问题可以回复一下]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Apple] HomePod 14.6 我觉得就是用来清库存的，感觉血亏。]]></title>
-        <id>https://www.v2ex.com/t/782023#reply14</id>
-        <link href="https://www.v2ex.com/t/782023#reply14"/>
-        <updated>2021-06-07T19:35:09.000Z</updated>
-        <summary type="html"><![CDATA[iOS15 支持 AppleTV 直出 HomePod mini 了，之前 14.6 更新完只让 HomePod 默认 ATV 直出。这波操作简直就是清库存的嫌疑，我还丧心病狂的入了俩 HomePod，现在有点悔。]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Apple] M1 Mac 变砖进入 DFU 模式恢复系统]]></title>
-        <id>https://www.v2ex.com/t/782022#reply2</id>
-        <link href="https://www.v2ex.com/t/782022#reply2"/>
-        <updated>2021-06-07T19:26:21.000Z</updated>
-        <summary type="html"><![CDATA[big bug 系统名不虚传，经历了一次无故黑屏之后，m1 mac 变砖，具体表现为无法进入系统并无限重启，并且无法长按电源键进入 recovery mode ！！！ 于是 Google 了一下，用户碰到类似情况都是选择天才吧，给出的解决方式是更换主板，我直呼离谱！！不过想到同为 arm 结构的 iphone 一直以来变砖的修复方式都是进入 dfu 模式，了解下 m1 果真可以，最终得以完美解决！
-解决方式：1 、你需要用到的工具，一台 intel 版本 MacBook，一条 C to C 的线（不可以是雷电协议，用机器自带的充电线），软件 Apple configuratior2 （官方 app store 下载）
-2 、将线分别插入两台 mac 满血的雷电口，m1 mac 在关机的情况，按住左 control+左 option+右 shift+电源键保持 10s，然后松开其他键，保持按住电源键 10s，直到你的 intel mac 上出现恢复你的 m1 macbook 。接下来就可以进行恢复操作了。
-本人真实踩坑记录，发一贴以备 V 友不时之需。]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Apple] WWDC2021 发布的新 safari 可以单独升级吗？在 safari technical preview 能不能体验到？]]></title>
-        <id>https://www.v2ex.com/t/782020#reply1</id>
-        <link href="https://www.v2ex.com/t/782020#reply1"/>
-        <updated>2021-06-07T19:24:08.000Z</updated>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Apple] 官网有很多新功能发布会并没有提及的 iOS 15 新功能，其中不乏我认为值得被提及的好功能]]></title>
-        <id>https://www.v2ex.com/t/782019#reply5</id>
-        <link href="https://www.v2ex.com/t/782019#reply5"/>
-        <updated>2021-06-07T19:19:43.000Z</updated>
-        <summary type="html"><![CDATA[https://www.apple.com/ios/ios-15-preview/features/
-这里是 iOS 15 的更新内容列表，我觉得里面有很多功能非常实用，足以让我期待全新版本。
-Custom email domain
-Personalize your iCloud Mail address with a custom domain name, and invite family members to use the same domain with their iCloud Mail accounts.
-iCloud+ 用户可以使用由苹果托管的域名邮箱了。
-Built-in authenticator
-Generate verification codes needed for additional sign-in security. If a site offers two-factor authentication, you can set up verification codes under Passwords in Settings — no need to download an additional app. Once set up, verification codes autofill when you sign in to the site.
-系统内置了 2FA 的应用，可以不用第三方 App 了。
-Temporary iCloud storage to transfer your data
-Now when you buy a new device you can use iCloud Backup to move your data to your new device, even if you’re low on storage. iCloud will grant you as much storage as you need to complete a temporary backup, free of charge, for up to three weeks. This allows you to get all your apps, data, and settings onto your device automatically.
-提供免费的临时 iCloud 空间以备份传输数据到新设备上。]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Apple] 还有必要继续等新 MacBook 吗？]]></title>
-        <id>https://www.v2ex.com/t/782018#reply4</id>
-        <link href="https://www.v2ex.com/t/782018#reply4"/>
-        <updated>2021-06-07T19:17:42.000Z</updated>
-        <summary type="html"><![CDATA[四月入职配电脑，本来公司有补贴两年换新。
-现在已经白白浪费掉两个月的时间了。
-手上的 MacBook 是 2013 年的，东换西换过很多东西，很可能随时爆炸。
-还有必要蹲新 MacBook Pro 吗？]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[iOS] iOSPB1 已经推送]]></title>
-        <id>https://www.v2ex.com/t/782017#reply16</id>
-        <link href="https://www.v2ex.com/t/782017#reply16"/>
-        <updated>2021-06-07T19:12:02.000Z</updated>
-        <summary type="html"><![CDATA[兄弟们我的主力机准备先冲了。
-描述文件可以在 ibeta.me 下载。]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Apple] 突然想到去年 WWDC 推出的 AirPods 自动切换功能，一年了在 Mac 上的体验仍然破碎...]]></title>
-        <id>https://www.v2ex.com/t/782015#reply2</id>
-        <link href="https://www.v2ex.com/t/782015#reply2"/>
-        <updated>2021-06-07T19:03:30.000Z</updated>
-        <summary type="html"><![CDATA[🤦🏻‍♂️🤦🏻‍♂️🤦🏻‍♂️]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Apple] 太难受了，新的 macbook 并没有“如期而至”]]></title>
-        <id>https://www.v2ex.com/t/782014#reply4</id>
-        <link href="https://www.v2ex.com/t/782014#reply4"/>
-        <updated>2021-06-07T18:54:14.000Z</updated>
-        <summary type="html"><![CDATA[每秒都在盼望着一句“one more thing”，就这样草草收场不得劲啊]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Apple] 告诉大家一个不幸的消息]]></title>
-        <id>https://www.v2ex.com/t/782013#reply12</id>
-        <link href="https://www.v2ex.com/t/782013#reply12"/>
-        <updated>2021-06-07T18:50:21.000Z</updated>
-        <summary type="html"><![CDATA[苹果没有发布新的 Macbook]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[macOS] macOS Monterey Universal Control 可以的]]></title>
-        <id>https://www.v2ex.com/t/782012#reply24</id>
-        <link href="https://www.v2ex.com/t/782012#reply24"/>
-        <updated>2021-06-07T18:33:10.000Z</updated>
-        <summary type="html"><![CDATA[功能类似 share mouse 和 Synergy，直接一套键鼠控制一套设备，全家桶舒服了，跨系统还是需要第三方软件。不过这个功能比隔壁家好朋友的功能————把移动设备投放到电脑屏幕上要节省屏幕空间。
-可以可以。]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Apple] Universal Control 和鸿蒙的那个功能很像]]></title>
-        <id>https://www.v2ex.com/t/782011#reply0</id>
-        <link href="https://www.v2ex.com/t/782011#reply0"/>
-        <updated>2021-06-07T18:33:05.000Z</updated>
-        <summary type="html"><![CDATA[鸿蒙那个设备融合的功能，可以自动识别 MatePad 在笔记本左边还是右边，键盘和触控板可以无缝控制 MatePad 。钟文泽的那个视频里，操控非常流畅无缝。
-Universal Control 也差不多，可惜只是在 Apple 生态里，永远没有 Windows 笔记本的事情。]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[分享发现] safari 这设计意味着我要输入网址的时候，还得找一下地址栏在哪？]]></title>
-        <id>https://www.v2ex.com/t/782010#reply1</id>
-        <link href="https://www.v2ex.com/t/782010#reply1"/>
-        <updated>2021-06-07T18:32:36.000Z</updated>
-        <summary type="html"><![CDATA[分享发现 - @dcalsky -]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Apple] 终于可以用 Mac 键盘鼠标控制 iPad 了！]]></title>
-        <id>https://www.v2ex.com/t/782009#reply2</id>
-        <link href="https://www.v2ex.com/t/782009#reply2"/>
-        <updated>2021-06-07T18:24:59.000Z</updated>
-        <summary type="html"><![CDATA[新功能叫 Universal Control]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[生活] 读研 or 工作，最后一次选择的机会。]]></title>
-        <id>https://www.v2ex.com/t/782008#reply1</id>
-        <link href="https://www.v2ex.com/t/782008#reply1"/>
-        <updated>2021-06-07T18:19:23.000Z</updated>
-        <summary type="html"><![CDATA[本人 21 届应届生，目前已考上双非一本普通高校计算机研究生。考的是本校的研究生，考研报名前后才决定报名考研，之前都在外面实习，考研前后也是在如今导师的手下干活，导师希望我留下，边工作变读研，于是就报名考试了。开的条件是:开学前工作报酬 5k，开学后 3k 。
-导师的研究方向可以说没什么具体的研究，手下研究生主要都是做老师的项目，主要 web 开发。研究生期间发高水平论文的可能性不大。
-目前开发任务重，基本每天没有什么空闲时间，工作到晚上十二点也常有发生。感觉在这里付出太多，007 的模式工作，付出与收获不成正比。平常没有时间进行学习总结，难以提升自己。曾经身边一起实习工作的小伙伴，都签了不错的 offer 。目前就很纠结，是否坚持继续拿个水货硕士文凭，跟着导师干，拿着相应的补贴，或者是放弃现在的一切，从头开始找个小公司然后伺机再跳呢？
-目前我所想到的解决方案主要是
-1 、增加报酬，寒暑假以及上学前按外面工作的薪资开，然后开学上课后适当减少
-2 、减少工作量，工作按时按量完成，要有个人时间
-3 、放弃读研，回归社会
-主要是担心，读研三年后未必比外面工作好。希望各位 V 友能给出真知灼见，帮助分析利弊。十分感谢！]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[iPad] iPad 终于可以写 iOS app 了]]></title>
-        <id>https://www.v2ex.com/t/782007#reply30</id>
-        <link href="https://www.v2ex.com/t/782007#reply30"/>
-        <updated>2021-06-07T17:49:40.000Z</updated>
-        <summary type="html"><![CDATA[不过好像必须使用 swiftUI]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Apple] iOS 15 终于支持门卡录入了！]]></title>
-        <id>https://www.v2ex.com/t/782006#reply9</id>
-        <link href="https://www.v2ex.com/t/782006#reply9"/>
-        <updated>2021-06-07T17:37:15.000Z</updated>
-        <summary type="html"><![CDATA[普天同庆啊！ 6 年了啊，终于支持原生录入门卡信息了。
-等正式发布，如果可以的话，一定要想办法录入门卡到钱包里。]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[程序员] 大家平时在家里是如何各个电脑以及移动设备之间共享文档、视频等的]]></title>
-        <id>https://www.v2ex.com/t/782005#reply13</id>
-        <link href="https://www.v2ex.com/t/782005#reply13"/>
-        <updated>2021-06-07T17:27:17.000Z</updated>
-        <summary type="html"><![CDATA[目前自己有两台电脑两台手机，比如有时候在电脑上的视频，想躺在床上看，总不能每次都把视频 down 到手机里看把
-还有就是 mac 跟 win 之间文件，虽然可以通过搭个 ftp 服务或者 Samba 这种直接共享文件夹的方式查看，但是移动端就没法直接访问了，不还得用个简易的文件浏览器，各端也不统一
-还有就是两三台电脑的时候，有时候感觉文件散乱，是时候想在家搞个既可以存储、备份文件又可以随时随地，只要连上了家里的网络，就能查看文件
-有没有类似实现了功能的软件，如果没有的话，自己搞个是不是挺好的（虽然工作量挺大的）。查看的话，我感觉初版可以通过网页输出，因为基本上大部分文件现在的网页都支持]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[问与答] UPU Global Monitoring System（万国邮政联盟全球监测系统）是诈骗吗？]]></title>
-        <id>https://www.v2ex.com/t/781999#reply1</id>
-        <link href="https://www.v2ex.com/t/781999#reply1"/>
-        <updated>2021-06-07T15:52:20.000Z</updated>
-        <summary type="html"><![CDATA[N 年前注册过国际邮件调查（ https://www.world-mail-panel.com/）   的网站，在快把它忘了的档口，最近收到一封来自 Quotas （ https://quotas.de/）   的邮件，代表 Universal Postal Union 询问我是否愿意参加 UPU GMS （万国邮政联盟全球监测系统）的全球邮政效率调查。
-任务是定期收取来自德国的信件，并按要求寄出到世界各个国家，并报告寄出时间。信件上附有专用 RFID 卡（经中国邮政许可），在通过信件整理设备或机舱门时，对方即可得知时间和信件当前位置，通过这一方法来监测国家间的邮政效率。每周大概需要寄出 15-20 封国际邮件，每封邮件报销邮资，且有 0.5 美刀的报酬。
-这个调查是否是骗局？又或者寄出国际邮件会涉及敏感操作例如间谍行为？搜索了一圈，UPU 和 Quotas 看起来都很正常，官网上也有相应计划说明，想看看 V 友的意见。]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[iDev] Apple 规定同一个身份证只能注册一个开发者账号，如果我之前用的一个苹果开发账号过期后不续费，多久后可以用另一个 Apple ID 申请开发账号？]]></title>
-        <id>https://www.v2ex.com/t/781998#reply0</id>
-        <link href="https://www.v2ex.com/t/781998#reply0"/>
-        <updated>2021-06-07T15:36:11.000Z</updated>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[问与答] 前端初学（HTML CSS JavaScript Angular]]></title>
-        <id>https://www.v2ex.com/t/781997#reply1</id>
-        <link href="https://www.v2ex.com/t/781997#reply1"/>
-        <updated>2021-06-07T15:36:06.000Z</updated>
-        <summary type="html"><![CDATA[本打算找 python 开发工作，误打误撞做了前端，前端知识太碎，刚工作没有任何任务。
-想快速对前端知识的骨架进行了解，但只被推荐了阮一峰的教程。（ es6+js
-css 基本都忘掉了，js 看的一头雾水，没有目的来看文档，边看边忘。
-有人建议一下如何继续学习或者推荐学习资料吗？]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[程序员] 说句丧气话，程序员算不上是自己的掘墓人?]]></title>
-        <id>https://www.v2ex.com/t/781995#reply22</id>
-        <link href="https://www.v2ex.com/t/781995#reply22"/>
-        <updated>2021-06-07T15:18:13.000Z</updated>
-        <summary type="html"><![CDATA[先是写一些简单的逻辑，把一些重复的劳动用电脑代替了。
-再后来，程序员写一些高级逻辑，把自己代替。
-程序员这个职业，一直在追求用机器取代人，最后（甚至不是最后一个）被机器取代。
-当然，这是程序员这个职业属性决定的，不是程序员这个人决定的。]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[iPad] iPad mini5 是否支持 HDR 显示？]]></title>
-        <id>https://www.v2ex.com/t/781991#reply3</id>
-        <link href="https://www.v2ex.com/t/781991#reply3"/>
-        <updated>2021-06-07T14:47:22.000Z</updated>
-        <summary type="html"><![CDATA[官方规格表里没写，但是能看 B 站的 HDR 视频]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[酷工作] [杭州]Nokia 开发测试内推， 965 不打卡，开放在家远程办公]]></title>
-        <id>https://www.v2ex.com/t/781990#reply3</id>
-        <link href="https://www.v2ex.com/t/781990#reply3"/>
-        <updated>2021-06-07T14:43:56.000Z</updated>
-        <summary type="html"><![CDATA[5G 开发测试，开发语言 C++，工作经验不限，想转 C++的也欢迎
-工作氛围轻松，965 不打卡，并开始逐步开放在家办公;更多的时间陪伴家人，更多的时间提升自我。
-六险一金（补充医疗险）足额缴纳
-工资奖金虽不能让你大富大贵，但也能让你幸福生活
-WX：aGl0X2x5aA==（ Base64 ），请备注：V2EX]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[硬件] Think book2021 屏幕颜色(观感异常)]]></title>
-        <id>https://www.v2ex.com/t/781989#reply3</id>
-        <link href="https://www.v2ex.com/t/781989#reply3"/>
-        <updated>2021-06-07T14:36:08.000Z</updated>
-        <summary type="html"><![CDATA[看白色和灰色(TIM 聊天栏)分辨率很低，两种颜色非常相似，一段时间用白背景切到 ide 后 ide(深色背景)会泛白，日常使用也会莫名奇妙的发白，而且反光也很严重。有用在 Think book 的 v 友能讲一下屏幕观感吗？不太确定是自己眼睛(看旧屏幕习惯)问题还是 Windows 颜色设置 /联想管家护眼模式(已卸载)/屏幕真的有问题]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[职场话题] V2 有老哥知道花旗金融吗？]]></title>
-        <id>https://www.v2ex.com/t/781988#reply9</id>
-        <link href="https://www.v2ex.com/t/781988#reply9"/>
-        <updated>2021-06-07T14:34:19.000Z</updated>
-        <summary type="html"><![CDATA[面试三轮，已过上海花旗金融，普通本科毕业两年，给开 19K，GFT 部门，听讲是做风控的，不知道前景怎么样？能去吗？
-目前除了花旗还有一家上海轻轻教育，做 K12 教育的，给开 15K，请问应该怎么抉择？
-ps:想过几年去互联网公司，比如唯品会或者喜马拉雅，不知道花旗金融这段经历写在简历里会不会有不好的影响？]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[WWDC] 好奇宝宝，今晚 wwdc21 会发硬件吗？]]></title>
-        <id>https://www.v2ex.com/t/781987#reply7</id>
-        <link href="https://www.v2ex.com/t/781987#reply7"/>
-        <updated>2021-06-07T13:52:46.000Z</updated>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[JavaScript] JS 中如何让 String 继承 getElement]]></title>
-        <id>https://www.v2ex.com/t/781984#reply9</id>
-        <link href="https://www.v2ex.com/t/781984#reply9"/>
-        <updated>2021-06-07T13:39:24.000Z</updated>
-        <summary type="html"><![CDATA[目前在学习 JS，主要目的是写一个油猴脚本，我的理解是油猴中写的 JS 脚本可以外挂在需要执行的网页当中。
-目前我的需求是，先获取网页当中的 href 超链接（目前已经实现）
-然后通过油猴的“GM_xmlhttpRequest”去访问这个超链接，并返回源码（这一步也已经实现）
-剩下的就是解析源码了，但是我也需要获取源码中的节点嘛，那我本来获取 href 超链接可以使用
-document.getElementsByClassName 的方式去获取，但现在返回回来的源码是一个 String 类型的数据，他没法使用类似 getElementsByClassName 的方法去定位，所以我来问问有没有什么方法可以实现让 String 数据继承，如果没有的话，我就要想办法用正则去实现了。。。
-我看了其他人写的代码，基本上都用到了一些库可以解析，比如 request，Cheerio 啥的，但是我琢磨了下发现都似乎无法在油猴上实现导入这些库。
-如果各位大佬有更好的方案也请指教。。]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[问与答] 发个牢骚，买家恶意到手刀。]]></title>
-        <id>https://www.v2ex.com/t/781983#reply6</id>
-        <link href="https://www.v2ex.com/t/781983#reply6"/>
-        <updated>2021-06-07T13:27:04.000Z</updated>
-        <summary type="html"><![CDATA[1g 内存的开发板就想装 deepin，到手刀，老子不接受，就叫他退货，看这货后续操作。]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Linux] IPTABLES UDP 端口转发疑惑]]></title>
-        <id>https://www.v2ex.com/t/781982#reply4</id>
-        <link href="https://www.v2ex.com/t/781982#reply4"/>
-        <updated>2021-06-07T13:22:45.000Z</updated>
-        <summary type="html"><![CDATA[在 centos7 拉取 github 源码编译经常连不上，找了许多资料发现透明代理比较合适。
-一番折腾 TCP 终于正常转发，UDP 如果配置 PREROUTING 就没任何转发效果，配置成 OUTPUT 可以转发不过报文不对：
-;; reply from unexpected source: 192.168.0.101#1080, expected 119.29.29.29#53
+        <title type="html"><![CDATA[[Android] [安卓休眠机制疑问] Android 的 cpu 在系统休眠时会关闭一些核心吗？]]></title>
+        <id>https://www.v2ex.com/t/782287#reply5</id>
+        <link href="https://www.v2ex.com/t/782287#reply5"/>
+        <updated>2021-06-08T22:37:51.000Z</updated>
+        <summary type="html"><![CDATA[之前在网上看过一些文章，有的说安卓有两个处理器，休眠时会关闭一个处理器：
+--安卓有两个处理器 AP 与 BP,系统休眠中的 CPU 停止指的是 AP 处理器,而 BP 处理器处于正常工作的状态
 
-求大佬帮忙
-#!/usr/bin/env bash
+上面这段话的意思是整个 AP 处理器都停止吗？可是我试着在后台跑 shell 脚本发现 shell 脚本居然可以一直成功执行，也没要任何唤醒锁之类的。如果 cpu 真的停止了，那 shell 脚本真的还能一直运行？另外手机还可以安装 ssh 服务、ftp 服务、adb 服务，这些服务在手机锁屏后也随时都可以连接，如果 cpu 停止了也能做到？ 
+.  
+比较说得通的休眠省电方式应该是关闭 cpu 的一些核心，比如 8 核 cpu 在休眠时关闭 4 个核心，只留 4 个核心运行。
+cat /sys/devices/system/cpu/cpu3/online
 
-start() {
-    stop
+上面的命令是针对 cpu 的第四个核心，如果上面的命令执行结果是 1，就代表 cpu 的第四个核心是在线状态。如果是 0，就代表是离线状态。
+root 后，有的手机可通过修改该文件为 0 的方式让 cpu 强制离线，有的手机不行：
+echo 0 > /sys/devices/system/cpu/cpu3/online
 
-    iptables -t nat -A OUTPUT -p tcp -m mark --mark 0x255 -j ACCEPT
-    iptables -t nat -A OUTPUT -p udp -m mark --mark 0x255 -j ACCEPT
-
-    # tcp
-    iptables -t nat -A OUTPUT -p tcp -j REDIRECT --to-ports 1080
-
-    # udp
-    # ip rule add fwmark 0x2333/0x2333 pref 100 table 100
-    # ip route add local default dev lo table 100
-    # iptables -t mangle -A PREROUTING -p udp --dport 53 -j TPROXY --tproxy-mark 0x2333/0x2333 --on-ip 127.0.0.1 --on-port 1080
-    # --dport 53
-
-    # iptables -t nat -A PREROUTING -p udp --dport 53 -j DNAT --to 192.168.6.10
-
-    iptables -t nat -A OUTPUT -p udp --dport 53 -j REDIRECT --to-ports 1080
-}
-
-stop() {
-    iptables -t nat -F
-    iptables -t mangle -F
-    iptables -F
-    iptables -X
-    ip rule delete fwmark 0x2333/0x2333 pref 100 table 100 &>/dev/null
-    ip route delete local default dev lo table 100 &>/dev/null
-}
-
-if [[ $1 == "start" ]]; then
-    start
-elif [[ $1 == "stop" ]]; then
-    stop
-fi]]></summary>
+只是我在手机锁屏很久后通过 adb 命令查看 online 文件，发现 cpu 的所有核心都一直是以最小频率在运行。根本就没关闭任何核心。所以不知道到底是否会关闭，还是说由于我连接了 adb 才没关闭？如果能关闭一些核心的话应该会省电很多。]]></summary>
         <author>
             <name>V2EX</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[分享创造] RSS3：我们仍未知道那天所看见的花的名字]]></title>
-        <id>https://www.v2ex.com/t/781981#reply20</id>
-        <link href="https://www.v2ex.com/t/781981#reply20"/>
-        <updated>2021-06-07T13:21:31.000Z</updated>
-        <summary type="html"><![CDATA[可能是十年前，有一个极其感召着我的词，叫做互联网精神，已经无从得知它起源于哪里，但大家都普遍认同互联网精神应该是开放、平等、协作、分享。它像花一样美好，这让年少的我感动不已，憧憬着互联网带着这些特质迈向光明的未来
-但今天，它正慢慢被遗忘
-内容平台掌握着用户传播、分发、获取内容的权利。平台们筑起了高高的围墙，把用户创作内容关在里面，视为自己的财宝。用户主动或被迫放弃自己的权利，交给平台包办，甚至让微信微博这种垃圾平台横行霸道，实在令人匪夷所思。当信息失去了互联的能力，“互联” 网也名存实亡
-内容平台掌握着用户创作内容的权利。任何人都应该能够自由表达自己的想法，而不受集权平台的审查和限制，它是一种基本人.权，也是一个数字人格的基本权利。而现实是平台有充分的权利和能力限制用户言论，平台可以决定什么能创作什么不能创作，也可以随意删除应该属于用户的内容
-互联网不应该是这样
-传统 RSS 是互联网精神的完美诠释和旧时代的先驱，但它已经无法适应新的时代，我在开发和维护开源项目 RSSHub 的过程中深刻认识到了这一点，它不仅无法很好地解决这些问题，自身也有一些很致命的问题，比如它的原始数据还是存在平台上、缺少用户之间的关联和内容交互、损害商业模式等。不做出一些根本上的改变是无法适应新的时代，注定只属于小众
-所以互联网需要一种新的开放、包容的构建社交和内容网络的协议，我们把它叫做 RSS3，协议提案已经发布在 GitHub 上： https://github.com/NaturalSelectionLabs/RSS3
-- 从 XML 改为更简单和高效的 JSON
-- 通过公私钥和签名来鉴权和验证完整性
-- 通过 links 和 backlinks 来记录用户之间的关联
-- 通过 upstream 和 contexts 来记录内容交互
-- 通过不同 mime_type 的 contents 来包容各种各样的内容形式
-- 通过 items_next 和 list_next 分页以支持存储更多的内容
-对创造者来说，每个人都可以把符合标准格式的 RSS3 文件上传到分布式网络，在文件中记录自己的个人信息、关系和创作内容，持有私钥对自己的文件有完全的所有权和修改权限，发布内容、关注其他创造者和与其他内容做交互只需要在自己文件中记录对方的 ID 而不需要看平台脸色
-对应用来说，每个应用都可以平等地获取创造者内容，即创造者的 RSS3 文件，应用无法垄断和控制内容，用户随时可以转去使用其他应用而不用担心损失已有内容
-对分布式节点来说，节点需要维护 RSS3 的关系和内容交互的反向索引，通过透明算法来计算创造者和内容的权重减少有害内容的危害，通过 AI 算法给创造者和内容打标实现用户自己可控的推荐系统等，当然也可以获得自己工作相应的奖励
-对平台来说，就让自己消失在历史长河中吧
-希望 RSS3 可以帮助创造者从集权内容平台手中夺回属于自己的权利，让互联网成为该有的样子，重新培育出我们曾经看见但已经忘记了名字的那朵花
-> 如果你对我现在做的事情感兴趣，并想一起参与到生态开发，可以在 GitHub 参与讨论或者联系我们
-Telegram: https://t.me/joinchat/W5l7RrGQGi0wYWUx
-Discord: https://discord.gg/Wakve3zzkh
-Twitter: https://twitter.com/rss3_]]></summary>
+        <title type="html"><![CDATA[[Android] 求推荐一款 安卓手机]]></title>
+        <id>https://www.v2ex.com/t/782286#reply7</id>
+        <link href="https://www.v2ex.com/t/782286#reply7"/>
+        <updated>2021-06-08T19:30:32.000Z</updated>
+        <summary type="html"><![CDATA[现在手持 iPhone12 mini,哪哪都好,就是电池续航不给力.
+打算试试安卓阵营.
+求各位大佬推荐一款手机.
+----------------------------------------
+预算 8k 以内
+1.最好是 iPhone12 mini 这个尺寸,喜欢小尺寸单手掌控.
+2.电池续航要给力,支持快充.Type-C 接口
+3.日常基本上不拍照不玩游戏.所以对摄像头没什么要求.有就行.
+4.最好是厂商要积极维护,及时跟上新版本 Android 更新.
+5.不要太多广告,本人不爱折腾.开箱即用很省心那种.
+6.全面屏.不要曲面屏.
+7.屏下指纹解锁.
+8.90Hz - 120 Hz 屏幕刷新率]]></summary>
         <author>
             <name>V2EX</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[问与答] 接近 1T 的 google drive 文件下载有什么好办法么]]></title>
-        <id>https://www.v2ex.com/t/781980#reply17</id>
-        <link href="https://www.v2ex.com/t/781980#reply17"/>
-        <updated>2021-06-07T13:20:45.000Z</updated>
-        <summary type="html"><![CDATA[如题，使用浏览器下载经常断，还不支持断点续传]]></summary>
+        <title type="html"><![CDATA[[Apple] iOS 15 的“时效性通知”有强制力吗？]]></title>
+        <id>https://www.v2ex.com/t/782285#reply2</id>
+        <link href="https://www.v2ex.com/t/782285#reply2"/>
+        <updated>2021-06-08T18:35:32.000Z</updated>
+        <summary type="html"><![CDATA[iOS 15 可以设置只推送时效性通知，其他通知则是通过定时摘要推送。但是时效性通知是由 App 自己决定的，那么如果 App 把广告设置成时效性通知就可以进行推送，所以 App Store 会不会管这些 App ？]]></summary>
         <author>
             <name>V2EX</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[酷工作] [杭州][百应科技][15-30k]内推 Java 开发,前端开发]]></title>
-        <id>https://www.v2ex.com/t/781979#reply0</id>
-        <link href="https://www.v2ex.com/t/781979#reply0"/>
-        <updated>2021-06-07T13:17:37.000Z</updated>
-        <summary type="html"><![CDATA[###Java 开发岗位职责：
-1 、作为团队核心开发，参与核心产品对应的需求讨论、业务领域建模、技术方案预研和确定、以及技术研发和上线工作；
-2 、攻坚解决各种疑难杂症，系统优化，并完成整个团队业务相关产品的平台建设以及公共组件的沉淀；
-3 、作为团队核心成员，参与规划系统架构以及平台的升级，和团队一起拿到结果；
-4 、作为互联网前沿领域 AI 语音场景落地的实践者。
-###任职要求：
-精通 Java，3 年以上 Java 开发经验；
-有丰富高并发、高吞吐、高稳定性系统架构设计与实现经验，对架构重构分析、分布改进、性能调优等有实战经验；
-熟练掌握分布式通讯框架（ Netty 等 NIO 框架）、分布式存储（ ES 、MongoDB 、HBase 等）、分布式缓存（ Memcached 集群、redis 集群）、分布式事务处理方案，熟悉 dubbo 、spring cloud 等框架；
-全局掌握架构要素系统灵活性、业务扩展性、性能线性增长、HA 高可用、等级安全性等；
-熟悉 MySQL，熟悉数据库原理和常用性能优化技术，熟悉消息中间件，如 RocketMQ 、RabbitMQ 、Kafka 等；
-了解 zookeeper 的使用原理；
-对技术有强烈的兴趣，喜欢钻研，具有良好的学习能力。
-----------分割线------------------
-###前端开发岗位职责：
-1 、参与公司内部系统建设（包括 Node 全栈开发）；
-2 、参与改进开发、构建、发布、监控等前端工程化体系；
-3 、参与 Web 性能优化、体验优化；
-4 、参与新技术探索、推进系统架构的演化；
-5 、技术栈：React 。
-###岗位要求：
-1 、扎实的计算机以及网络基础；
-2 、本科及以上 3 年以上前端开发经验，精通各种前端技术，包括 HTML/CSS/JavaScript 等，有 React Native 开发经验，有 React 开发经验；
-3 、具备跨终端的前端开发能力，在 Web （ PC+Mobile ）/Native App 方向上至少精通一个方向，具备多个的更佳；
-4 、具备良好的团队协作精神，能利用自身技术能力提升团队整体研发效率，提高团队影响力。
-有意向的童鞋可以将简历发送至:ailun@byai.com,公司位于余杭区梦想小镇,公积金全额,不定期的小福利.]]></summary>
+        <title type="html"><![CDATA[[程序员] 能否导出百度帐号管家的密钥]]></title>
+        <id>https://www.v2ex.com/t/782283#reply1</id>
+        <link href="https://www.v2ex.com/t/782283#reply1"/>
+        <updated>2021-06-08T17:12:37.000Z</updated>
+        <summary type="html"><![CDATA[有多个帐号，需要切换的时候经常需要用百度自己的帐号管家，不想多装百度 APP，而且这个其实也就是标准的 TOTP 协议，为什么非要绑在自己的 APP 里，强制用户安装使用？
+QQ 的密保令牌也是。
+有没有什么办法导出这些密钥，用其他 2FA 管理器来管理？]]></summary>
         <author>
             <name>V2EX</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[iPhone] 极客时间 iOS 版不支持微信/支付宝支付]]></title>
-        <id>https://www.v2ex.com/t/781978#reply3</id>
-        <link href="https://www.v2ex.com/t/781978#reply3"/>
-        <updated>2021-06-07T13:03:17.000Z</updated>
-        <summary type="html"><![CDATA[网页版是支持的。
-尝试了下 Surge 抓包来看网页版与 App 版区别，寻求修改 header 等信息，来开放支付手段。发现不可行，请求逻辑等不一致。]]></summary>
+        <title type="html"><![CDATA[[macOS] Android 开发 新 MacBook Pro 选什么好？]]></title>
+        <id>https://www.v2ex.com/t/782282#reply6</id>
+        <link href="https://www.v2ex.com/t/782282#reply6"/>
+        <updated>2021-06-08T17:08:52.000Z</updated>
+        <summary type="html"><![CDATA[前情提要
+https://v2ex.com/t/782018
+工作用机
+现在冲的话选 M1 还是 Intel ？
+有 Jetpack Compose 需求]]></summary>
         <author>
             <name>V2EX</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[程序员] 大家觉得 B 站的科技区 UP 主怎么样？]]></title>
-        <id>https://www.v2ex.com/t/781977#reply0</id>
-        <link href="https://www.v2ex.com/t/781977#reply0"/>
-        <updated>2021-06-07T13:01:55.000Z</updated>
-        <summary type="html"><![CDATA[感觉方向对了，很容易上榜。]]></summary>
+        <title type="html"><![CDATA[[macOS] 求 texura ntfs 官方购入渠道]]></title>
+        <id>https://www.v2ex.com/t/782281#reply5</id>
+        <link href="https://www.v2ex.com/t/782281#reply5"/>
+        <updated>2021-06-08T17:08:13.000Z</updated>
+        <summary type="html"><![CDATA[官方好像在大陆没有正版授权的销售渠道。官网又需要信用卡才能购买...
+所以来请教一下正确的购入姿势...
+ps，除了 texura 还有其他 [方便] 的 ntfs 读写软件推荐吗？]]></summary>
         <author>
             <name>V2EX</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[酷工作] [上海]央企下属研究院少量社招名额]]></title>
-        <id>https://www.v2ex.com/t/781976#reply0</id>
-        <link href="https://www.v2ex.com/t/781976#reply0"/>
-        <updated>2021-06-07T12:59:27.000Z</updated>
-        <summary type="html"><![CDATA[上海某央企下属研究院，面向社会招聘少量有经验的软件工程师。
-主要职责：
-1.负责业务场景梳理与设计，对各类数据进行分析，针对业务场景需求提出解决方案。
-2.深度参与产品全生命周期管理，包括但不限于架构设计，产品开发，实施部署，维护优化。
-3.掌握一种或者多种面向对象语言，有丰富的项目经验。
-4.掌握一种或者多种脚本语言，能快速验证方案。
-5.既能独立完成小型项目，也能带领团队完成大中型项目的原型设计，能指导外包公司完成大中型项目完整设计与实现。
-岗位要求：
-1. 本科及以上学历，硕士学历需 2 年以上相关工作经验，本科学历需 3 年以上相关工作经验。
-2. 计算机、数学、软件工程、电子电气、通信、自动化、机电等相关理工科专业优先，经验丰富或能力较强的候选人可适当放宽限制。
-3. 985/211 院校优先，经验丰富或能力较强的候选人可适当放宽限制。
-4. 英语 CET6 级以上优先
-5. 有桌面应用 /Web 应用 /数据处理 /企业开发等项目经验优先。
-有意向者请将简历发送至：lchcomac [at] protonmail [dot] com]]></summary>
+        <title type="html"><![CDATA[[酷工作] [深圳/北京/上海][Shopee 虾皮内推] 前端/后端/测试/数据/Android/IOS/产品/Leader 大量 HC 持续火热招人中]]></title>
+        <id>https://www.v2ex.com/t/782280#reply0</id>
+        <link href="https://www.v2ex.com/t/782280#reply0"/>
+        <updated>2021-06-08T16:41:12.000Z</updated>
+        <summary type="html"><![CDATA[关于 Shopee
+Shopee 是东南亚领航电商平台，覆盖新加坡、马来西亚、菲律宾、印度尼西亚、泰国及越南等市场。
+2020 是充满考验和挑战的一年，Shopee 持续在本土化战略的引领下满足东南亚消费者新需求，达成业绩强劲增长：全年总订单数猛增 132.8%，为 2020 全年东南亚购物类 App 平均月活跃用户数，安卓用户使用总时长，及总下载量第一。同时，Shopee 于 YouGov 颁布的亚太品牌声量榜夺冠，并在全球最佳品牌榜位列第八。
+两个词介绍就是：国际平台、潜力无限！
+近期专场招聘会
+通过专场招聘会渠道，一天搞定面试，流程超快！
+以下专场招聘会分属不同业务部门，点击链接可进入内推招聘系统查看岗位详情，可直接投递简历。
+6 月 19 日 Supply Chain 专场
+关于 Supply Chain 业务：#本地及国际物 14 流网络 #多地区复合仓储系统 #最后一公里 #智能化调度 #货通东南亚
+6 月 19 日 Content Service 专场
+关于 Content Service 业务：#电商社交平台 #Feeds 流 #短视频 #电商直播 #互动连麦
+6 月 19 日 MMC 专场
+关于 MultiMedia Center 业务：#实时音视频服务 #流媒体 #直播后台 #美颜算法 #3D 渲染 #AI
+6 月 26 日 Merchant Services 专场
+关于 - Merchant Services 业务：# 东南亚中小商家 #代售代缴 #支付收单 #高效低成本 #客户关系管理
+6 月 26 日 Financial Products 专场
+关于  Financial Products 业务：#消费贷 #现金贷 #多元信贷 #量化风控 #策略模型 #并发交易量
+6 月 26 日 Digital Purchase & Local Services 专场
+关于 Digital Purchase & Local Services 业务：#数字商品 #生活缴费 #娱乐票务 #OTA 服务 #本地生活 #线下支付
+其他热招岗位
+如何内推？
+首先希望老哥你：
+学历为统招本科以上，有知名中大型公司经历（重要）优先。
+内推方式：
+方式一（自助投递）：电脑端点击上面 专场招聘会的链接 进入招聘系统，选择意向岗位后自行投递简历即可。
+方式二：发送 岗位名称 和 简历 到我的邮箱 whirlys@163.com
+注意⚠️：
+简历投递后，可到  [ Shopee 虾皮招聘]  微信公众号上通过 姓名+手机号 查询进度
+简历可多投，但是同一时间只会有一个处于面试状态；每个岗位都在详情页面写明了岗位要求，建议投匹配度高的岗位
+如有需要可以加我微信 data_xia ，我将尽量为各位解答问题（关于公司 /面试 /催流程 /推荐合适岗位等）！]]></summary>
         <author>
             <name>V2EX</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[分享创造] 做了一个 iOS Safari 里可以玩的 NDS 模拟器， A14 上能到 60fps]]></title>
-        <id>https://www.v2ex.com/t/781973#reply2</id>
-        <link href="https://www.v2ex.com/t/781973#reply2"/>
-        <updated>2021-06-07T12:48:55.000Z</updated>
-        <summary type="html"><![CDATA[https://ds.44670.org/
-Safari 里打开上述链接，载入 NDS 文件就可以玩啦。（需要添加到主屏幕后才能支持存档）
-A14 上多数游戏可以到 60fps 。
-试了一下我的 A12X iPad，部分游戏（主要是 3D 游戏）会卡一些。
-项目地址： https://github.com/44670/desmume-wasm
-（虚拟按键还没弄好，目前只能使用触摸屏]]></summary>
+        <title type="html"><![CDATA[[全球工单系统] 有开心网的员工嘛？]]></title>
+        <id>https://www.v2ex.com/t/782278#reply2</id>
+        <link href="https://www.v2ex.com/t/782278#reply2"/>
+        <updated>2021-06-08T16:00:34.000Z</updated>
+        <summary type="html"><![CDATA[以前不闻不问，心安理得总以为那些照片没啥价值，现在非常想拿回来，因为照片经过后期，是我自己非常满意的。最近发现无论怎么登录，密码肯定输入正确了也好，总是闪现“需要登录才能使用”之类的提示，然后又跳回登录界面，这是彻底黄了吗？我想进去拿照片，有办法吗？]]></summary>
         <author>
             <name>V2EX</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[酷工作] [21、22 届校招] 后台前端移动端产品都招， base 深圳宝安，东南亚头条资讯平台，业务已盈利牛人多氛围好]]></title>
-        <id>https://www.v2ex.com/t/781972#reply0</id>
-        <link href="https://www.v2ex.com/t/781972#reply0"/>
-        <updated>2021-06-07T12:42:09.000Z</updated>
-        <summary type="html"><![CDATA[人才直通车 [ BASE64 ]
-邮箱：ZGVuZ21laWxpbmdAeGJvbmxpbmUubmV0IA==
-微信：MTM1MTA3MDk1MzE= （微信撩请注明心仪的职位+V2 ）
+        <title type="html"><![CDATA[[DevOps] terraform 1.0]]></title>
+        <id>https://www.v2ex.com/t/782276#reply3</id>
+        <link href="https://www.v2ex.com/t/782276#reply3"/>
+        <updated>2021-06-08T15:55:18.000Z</updated>
+        <summary type="html"><![CDATA[https://github.com/hashicorp/terraform/releases/tag/v1.0.0]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Web Dev] 公司内部人员使用的 web 后台需要前后端分工吗]]></title>
+        <id>https://www.v2ex.com/t/782274#reply14</id>
+        <link href="https://www.v2ex.com/t/782274#reply14"/>
+        <updated>2021-06-08T15:40:01.000Z</updated>
+        <summary type="html"><![CDATA[每个公司内部肯定有各种各样的 web 管理后台，这些后台因为只是给公司内部人员使用，在 UI 方面没有很高的要求，所以想了解下，目前是前后端分工（前端后端由不同的人负责开发）的公司多，还是不分工的多
+然后最后还想问下，有没有什么好用的免费前端框架，能够快速的做出一个 web 内容管理后台？]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[酷工作] [北京] 贝叶智能 高级 Python 后端 大数据开发 前端开发招聘]]></title>
+        <id>https://www.v2ex.com/t/782273#reply0</id>
+        <link href="https://www.v2ex.com/t/782273#reply0"/>
+        <updated>2021-06-08T15:34:22.000Z</updated>
+        <summary type="html"><![CDATA[关于贝叶智能
+贝叶智能是一家技术驱动的创新型企业，以人工智能为核心向金融行业客户提供短视频平台流量服务及深度转化。贝叶智能的创始团队是资深的金融、广告营销及互联网产品技术领导者和专家，拥有丰富的上亿 DAU 产品管理经验。核心团队毕业于清华、北大、北航等知名高校，并拥有一线互联网及金融公司工作经历。团队崇尚工程师文化，强调自我驱动、效率优先、按时交付，工作时间灵活，氛围轻松。
+技术团队
+充满活力，且每个人都会接触核心业务，并和优秀团队合作，跨团队的沟通协作
+尊重契约、平权、尊重知识、效率优先、行胜于言是团队的价值观
+学习证券、基金，专业培训，技术和兴趣分享会
+Mac M1，生日会，第一年 10 天年假，商业补充医疗保险，试用期薪资不打折，无 996，无限量零食饮品等
 
- [团队业务简介] 
-小步网络是一家迅雷系的创业公司（老板是迅雷前技术副总裁，迅雷前十号员工；团队近一半是迅雷和腾讯过来的）。主营业务是东南亚头条资讯 App （直观理解就是东南亚版今日头条），立志做东南亚的内容分发平台，目前越南、泰国、印尼已经位列 Top1，马来、菲律宾等国家也已上线产品，自有产品用户数 5000 万+，日活 400 万+；合作的产品矩阵日活 1000 万+。
- [公司发展] 
-公司已融资到 B+轮，知名机构和大厂如 SIG 、启明、Oppo 等均有参投；公司 2019 年底已经初步了收支平衡，20 年已开始全面盈利
- [产品及业务] 
-目前主力产品为新闻资讯 App，亦拓展其他类型业务，丰富流量类型及加速商业化变现，如电商、游戏相关等
-新闻资讯 App 可苹果 /谷歌应用商店下载体验：VN Ngay Nay 、Báo hay 24h 、Indo Today
- [福利氛围] 
-公司弹性管理、开放平等，上下班不打卡、入职就有带薪年假（ 3 天）、带薪病假（ 2 天 /月）、每天下午茶、每周三运动日、生日会及生日礼物、年度体检、知识分享等，团队牛人多成长快，团队氛围简单不劳心。
-公司有清晰的人才发展体系，各个职类有相应的岗位 Leader，关注各职类人才的培养、发展；
-公平可期待的薪资，每年两次调薪，丰厚的年终奖
-目前业务发展快速，业务上升期，暂时大小周的休息制度，周三运动日
- [公司地址] 
-公司地址位于宝安区宝源路 F518 时尚创意园，1 号线坪洲地铁站附近，交通便利，附近租房性价比高
-一、后台开发工程师（校招）
-岗位职责：
-从事头条（东南亚各国）、推荐系统、广告…]]></summary>
+社招职位（三年以上工作经验）
+高级 Python 后端开发工程师（ 20K-40K，13 薪）
+辨明业务需求，设计、开发、测试、交付和维护广告推荐系统和模型平台；
+参与技术选型及架构设计，改进基础设施服务，引入和制作工具，提高生产效率；
+关注性能和可用性，并持续不断进行优化，持续提高软件质量；
+主动与各领域团队成员协作，共同交付高质量的系统。
+职位要求
+热爱技术，相信技术改变世界；在生活中用技术手段解决问题的例子；关心代码质量，无法忍受 code smell ；
+熟悉 Python 语言，三年以上 Python 工程经验；
+熟悉 MySQL 、Redis 、MQ 、Git 等常用工具和组件；
+理解常规的架构设计思想，包括不限于服务化、异步、高可用、可扩展等；
+阅读英文技术文章无障碍，主动获取知识；
+有广告、推荐等数据系统工程经验，或微服务、K8S 等相关经验者优先；有金融相关领域开发经验或知识者优先；有消息推送系统相关经验者优先 。
+大数据平台高级开发工程师（ 20K-40K，13 薪）
+参与公司分布式存储系统、推荐系统、大数据分析平台等大数据平台的开发；
+关注系统性能和可用性，并持续不断进行优化，持续提高软件质量；
+构建易用性工具，方便其他团队便捷使用数据中台；
+主动与各领域团队成员协作，共同交付高质量的系统。 
+职位要求
+百亿级别数据实时查询引擎的开发经验，两年以上大数据平台相关开发经验；
+熟悉常用的分布式存储、计算与查询系统，如 Hadoop / Hive / Cassandra / Clickhouse ；熟悉 Python 语言，三年以上 Python 工程经验；
+热爱技术，相信技术改变世界;在生活中有用技术手段解决问题的例子; 关心代码质量，无法忍受 code smell ；
+强烈的自驱工作能力，强烈的自驱学习能力；
+有机器学习系统工程经验，或微服务、K8S 等相关经验者优先;有金融相 关领域开发经验或知识者优先;有消息推送系统相关经验者优先。
+高级前端开发工程师（ 20K-40K，13 薪）
+开发广告系统等数据平台的 Web UI / JavaScript SDK / etc ；
+改进工具链 & 开发可复用的前端组件，提升前端开发效率；
+关注 & 持续优化 Web UI 的交互友好度、客户端性能和跨浏览器兼容性；
+与各领域团队成员一起交付高质量产品。
+职位要求
+熟悉 JavaScript(ES2015+)和至少一个前端框架，了解 MVC / MVVM / 组件化；
+熟悉 CSS 和 Responsive Web Design，了解 BEM / CSS Modules / CSS-in-JS ；
+熟悉 Babel / PostCSS / Rollup / Webpage 等工具的组合 & 使用；
+了解 UI 和交互设计，对用户体验和「像素级完美」有追求。
+[加分项]
+有大型前端应用开发的工程经验；
+有 iOS / Android / 微信小程序应用开发的工程经验；
+能够使用 Sketch/AdobePhotoshop 设计 UI 原型；
+有广告、推荐或其他数据平台开发经验者优先。
+
+投递简历
+Email： demi@beiye.ai
+请注明“V2EX”、申请职位]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[问与答] mysql 查询请教各位 v2er 一个问题]]></title>
+        <id>https://www.v2ex.com/t/782272#reply2</id>
+        <link href="https://www.v2ex.com/t/782272#reply2"/>
+        <updated>2021-06-08T15:24:58.000Z</updated>
+        <summary type="html"><![CDATA[表结构大概类似这样。name,time,score，想要的查询是动态的将行值转化为列名，做透视。
+我使用了拼接字符串进行，动态的查询，脚本如下
+SET @sql = NULL;
+SELECT
+GROUP_CONCAT(DISTINCT
+CONCAT(
+ 'MAX(IF(a.name = ''',
+ a.name,
+ ''', a.score, 0)) AS ''',
+ a.name, ''''
+)
+) INTO @sql
+FROM student_score a;
+
+
+
+SET @sql = CONCAT('Select time,', @sql, 
+          ' From `student_score` a Group by a.time' );
+PREPARE stmt FROM @sql;  -- 动态生成脚本
+EXECUTE stmt;            -- 动态执行脚本
+DEALLOCATE PREPARE stmt;
+
+我跑了一下，发现数据量不多的时候，这样查询没问题，当我数据有几十万的时候，转化为列大概有两百多列，就报错了。请教各位 v2er 怎么动态的将几十万数据行值转为列]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Android] 有哥们在 Linux 系下开发安卓应用吗？]]></title>
+        <id>https://www.v2ex.com/t/782270#reply9</id>
+        <link href="https://www.v2ex.com/t/782270#reply9"/>
+        <updated>2021-06-08T15:06:44.000Z</updated>
+        <summary type="html"><![CDATA[一直用 mac，最近 618 想配个主机装 linux 玩玩？
+Ubuntu 开发安卓 APP 日常问题多吗？]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[京东] 出京东会员剩下的万达权益和美团外卖 100 红包， 20 打包吧]]></title>
+        <id>https://www.v2ex.com/t/782268#reply0</id>
+        <link href="https://www.v2ex.com/t/782268#reply0"/>
+        <updated>2021-06-08T14:53:01.000Z</updated>
+        <summary type="html"><![CDATA[万达电影 ，美团外卖 ，20 来个打包吧。微信同 id]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[职场话题] 哇~ 网曝编程猫劝退上百员工：无补偿 在地铁站围追堵截员工防留证据]]></title>
+        <id>https://www.v2ex.com/t/782266#reply3</id>
+        <link href="https://www.v2ex.com/t/782266#reply3"/>
+        <updated>2021-06-08T14:38:03.000Z</updated>
+        <summary type="html"><![CDATA[原新闻地址。
+https://finance.sina.com.cn/chanjing/gsnews/2021-06-04/doc-ikqcfnaz9153908.shtml
+前几个月还看到编程猫在站里招聘呢。目测先裁员销售、编程老师？后面呢？]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[分享发现] 使用 wolai 搭建个人轻博客、知识库&轻文档中心]]></title>
+        <id>https://www.v2ex.com/t/782264#reply12</id>
+        <link href="https://www.v2ex.com/t/782264#reply12"/>
+        <updated>2021-06-08T14:15:45.000Z</updated>
+        <summary type="html"><![CDATA[wolai 这是一款基于 Block 概念的笔记软件，作为本土的云笔记新兵，“我来”与 Notion 有着高度的相似性可以说是优化后的「国内版 Notion 」，但这款工具不只是完成汉化它解决了 Notion 一些在国内使用的缺点，同步问题、中文搜索问题、访问缓慢、中文语言问题...
+wolai 满足个人 /团队用户的撰写、托管和分享。
+使用地址： https://www.wolai.com/signup?invitation=TZQ55G3
+产品优势
+多种音视频嵌入能力
+多端适配（手机电脑）
+中英文数字内容自动间隔
+Block 块砖编辑、超过 30 种功能应用便于知识组织
+中文超友好的快捷键，想输个图片，就输个 /tp 中英文输入法下都可以唤起
+全角符号兼容的 Markdown 快捷输入
+1700+Emoji 图标、1500+Font Awesome 图标和 wolai 动态图标
+支持双向链接和信息图谱，让笔记之间的联系更加紧密
+超 100 款笔记模板，可形成自己网站、知识库、数据库、手帐本..
+部分截图
+
+
+免费版功能如下
+
+这个块数量大家有可能不太了解，给大家科普下：一部中国民法典按照分段大约会使用 2000 个块，也就是说，试用版支持你写出 1.5 本《民法典》，这对于 99%的轻度用户来说都足够了。
+当然你还可以免费嫖个人专业版、家庭版本。只需要通过积分兑换即可。邀请 4 个人就能获取专业版。
+演示站点
+私人站点演示]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Android] XprivacyLua Pro 有玩的溜的吗？安卓 11 上有个泄露的拦不住了]]></title>
+        <id>https://www.v2ex.com/t/782263#reply1</id>
+        <link href="https://www.v2ex.com/t/782263#reply1"/>
+        <updated>2021-06-08T14:15:16.000Z</updated>
+        <summary type="html"><![CDATA[安卓 11，XprivacyLua 1.29 ，XprivacyLua pro 0.79 （正常花钱注册的），打开了 Fif collection，有个 app "Device info HW" 5.1.2，在其 SYSTEM 页面， "Description"，“描述”，能获取 rom 的信息，也就是没能拦住隐私泄露，该怎么设置 XprivacyLua 以及 Pro 能不让其获取到 ROM 信息？最终效果就是要像其他条目一样只能 unknown
+图片：i.loli.net/2021/06/08/RMdYAq4DJ3S2kWB.png]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Node.js] NodeJs 使用 express 和 typeorm 的项目如何实现 Global Error Handling]]></title>
+        <id>https://www.v2ex.com/t/782262#reply3</id>
+        <link href="https://www.v2ex.com/t/782262#reply3"/>
+        <updated>2021-06-08T14:08:56.000Z</updated>
+        <summary type="html"><![CDATA[最近在写 nodejs，遇到了一个问题很迷幻。
+如何在 controller/router 层来处理 services 或则 repository 层传递过来的错误呢？
+现在是用 try catch 代码实在是太丑了。
+我想实现的是类似于 Spring boot 的 controllerAdvise/ExceptionHandler 这种形式
+网上搜了一圈也没啥好的办法，希望大佬们给点意见
+例子如下：
+router：
+
+    async login(req: Request, res: Response) {
+
+        try {
+            const {user, accessToken} = await this.userRepository.findAndGenerateToken(req.body);
+
+            const token = await AuthService.generateTokenResponse(user, accessToken);
+
+            if (user.Role[0].role_id !== 3 && user.is_approval === false) {
+                return ApiResultBean.errorMessage("User need to be approve!!");
+            }
+
+            if (token instanceof Error) {
+                return ApiResultBean.error(req, token);
+            }
+
+            return ApiResultBean.success({token, user});…]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Apple] 求解， AirPods Pro 出现每次都要求重新配对的问题]]></title>
+        <id>https://www.v2ex.com/t/782261#reply3</id>
+        <link href="https://www.v2ex.com/t/782261#reply3"/>
+        <updated>2021-06-08T14:04:10.000Z</updated>
+        <summary type="html"><![CDATA[今天重置了一次 AirPods Pro，没想到之后每次开盖使用都提示“这不是你的 AirPods”…
+于是我又重置了两次，还是当时能用，放回去过一会儿打开就提示“这不是你的 AirPods 了”
+iOS 版本 14.6
+AirPods Pro 固件 3E751]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[iPad] 求助， iPad Pro 2021 8g RAM 和 16g RAM 的区别]]></title>
+        <id>https://www.v2ex.com/t/782260#reply9</id>
+        <link href="https://www.v2ex.com/t/782260#reply9"/>
+        <updated>2021-06-08T14:03:52.000Z</updated>
+        <summary type="html"><![CDATA[目前在官网订购了 iPad Pro 2021 12.9 1TB 的版本
+但是预计到货日期已经排在了 7 月 20 号
+看了油管上的视频发现两者保存后台的能力完全相同甚至出现了 16g 杀了后台 8g 依旧后台保存完好的情况
+想问问有没有实际体验过的朋友指个路
+到底 16g RAM 有没有在后台能力上拉开与 8g RAM 的差距？
+十分感谢！]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Apple] 现在有哪些 iPadOS 的 APP 已经更新了支持横屏使用的？]]></title>
+        <id>https://www.v2ex.com/t/782259#reply1</id>
+        <link href="https://www.v2ex.com/t/782259#reply1"/>
+        <updated>2021-06-08T14:03:39.000Z</updated>
+        <summary type="html"><![CDATA[难道要等到 iOS15 正式推送的时候？]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[酷工作] [FinTech 社区] 招聘： ITSM Java Developer Lead - 60-90 万 - 远程工作]]></title>
+        <id>https://www.v2ex.com/t/782258#reply0</id>
+        <link href="https://www.v2ex.com/t/782258#reply0"/>
+        <updated>2021-06-08T13:54:50.000Z</updated>
+        <summary type="html"><![CDATA[FinTech 社区是一个拥有 50,000+ 会员的金融科技社群，旨在为金融科技行业赋能，致力于金融科技行业资源共享社群。我们目前有机器学习群，技术群，量化群，校招群，数据开发群等等。
+简历邮件： career@fintechgl.com
+微信公众号：FinTech 社区
+微信号：fintech78
+官网：www.fintechgl.com
+
+量化 VS 互联网视频链接：
+https://mp.weixin.qq.com/s/Mh5RL0BuYru9FuC1KmyAjQ
+[FinTech 社区] 招聘：ITSM Java Developer Lead - 60-90 万 - 远程工作，详情请见海报。]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Web Dev] web 图片压缩比例有没有最佳实践]]></title>
+        <id>https://www.v2ex.com/t/782257#reply15</id>
+        <link href="https://www.v2ex.com/t/782257#reply15"/>
+        <updated>2021-06-08T13:44:06.000Z</updated>
+        <summary type="html"><![CDATA[适用 PageSpeed Insights 测试网站，提示“适当调整图片大小”，这里的压缩比有什么最佳实践么？
+比如：webp: 100K 以上压缩比例 70%，100K 一下 60% 之类的？]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[职场话题] 这是 PUA 吗…看完这段话觉得有点难过。]]></title>
+        <id>https://www.v2ex.com/t/782256#reply22</id>
+        <link href="https://www.v2ex.com/t/782256#reply22"/>
+        <updated>2021-06-08T13:35:58.000Z</updated>
+        <summary type="html"><![CDATA[背景：
+几个月前离职了，在自己的公众号发了篇非实名的吐槽文章（访问量很少），
+昨天半夜， 前同事（被吐槽的当事人）忽然发来微信，说看到了这篇文章，发了很多长段的话；
+当时我快睡着了，整个人很懵，不知道对方想做什么。
+直到看到下图的话，让我一个激灵：
+
+想尽快结束对话，表示了歉意，希望对方不要介意；
+当时还觉得自己做错了什么。
+第二天想来有些难过。
+我是刚转行的小菜鸟，和其他同事有聊过这位被吐槽同事的问题，大家的评价都很客观（是有一些问题的）。
+但对方不觉得自己有问题（即便有也是很小的失误），更多的是我的过失，应该体谅他。
+我已经离职一段时间了，对方认为我是个小角色，不值一提。还有什么必要澄清呢？
+刚刚又看了记录，我在文章里感谢过细心的一位同事（男性）；
+之前他们也共事过，结果被大家认为是'姑娘'，
+似乎不考虑别人的感受，没有边界感的行为，是更爷们 er，更直男的。
+但我个人觉得这跟性别和爷们 er 没有什么关系，是个人素质的问题（没和对方 battle……太困了）
+
+然后多次提到自己在 ali 带过高 P……(这和我好像也没啥关系吧。。。)
+
+综上。。感觉也有说教、关心下属成分在？但确实让我觉得很不舒服。
+大家怎么看待呢……是我太敏感了吗？]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[macOS] B 站网页已经全面支持了 macOS 的空间音频了]]></title>
+        <id>https://www.v2ex.com/t/782254#reply7</id>
+        <link href="https://www.v2ex.com/t/782254#reply7"/>
+        <updated>2021-06-08T13:10:47.000Z</updated>
+        <summary type="html"><![CDATA[不知道什么原理，包括 up 上传的视频，只是效果一般]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[宽带症候群] 子路由 AP 模式好还是二级路由好]]></title>
+        <id>https://www.v2ex.com/t/782252#reply4</id>
+        <link href="https://www.v2ex.com/t/782252#reply4"/>
+        <updated>2021-06-08T12:38:40.000Z</updated>
+        <summary type="html"><![CDATA[楼主网络小白^_^，我以为的路由器：
+用作 AP 模式就是接在主路由(192.168.1.1)LAN 下和子路由 LAN 相连，IP 设置成 192.168.1.X
+而二级路由是 IP 设置成 192.168.X.1，接在子路由 wan 下
+在跑满带宽和稳定性的前提下（额，貌似不管是哪个模式好像都能跑满带宽吧…）哪个好？
+（因为家里用过我所谓的第一种 AP 模式果断时间网络有问题，用第二种就没问题了）]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[问与答] 苹果的 magic keyboard 如何在 iPhone 和 Mac 之间共享？]]></title>
+        <id>https://www.v2ex.com/t/782251#reply1</id>
+        <link href="https://www.v2ex.com/t/782251#reply1"/>
+        <updated>2021-06-08T12:25:17.000Z</updated>
+        <summary type="html"><![CDATA[如题问]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Docker] Docker Hub 免费 plan 即将不在享有 Autobuild]]></title>
+        <id>https://www.v2ex.com/t/782250#reply8</id>
+        <link href="https://www.v2ex.com/t/782250#reply8"/>
+        <updated>2021-06-08T12:22:23.000Z</updated>
+        <summary type="html"><![CDATA[As one of the users of Docker Hub’s Autobuild service, we wanted to reach out and let you know that from June 18th, 2021 users on the free plan will no longer have access to the Autobuild feature. This means that any of your currently configured Autobuild will fail to run and you will need to upgrade to a Pro or Team account to restore functionality. You can read more about the changes on our blog.
+
+Changes to Docker Hub Autobuilds
+https://www.docker.com/blog/changes-to-docker-hub-autobuilds/
+
+自 docker hub 限制 pull 限制之后，autobuild 也不在免费使用了。
+推荐个来自 Redhat 的代替方案: https://quay.io/   没有 pull 限制，也有自动构建。]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[问与答] 能否在命令行中一次性指定 export-ignore 参数？]]></title>
+        <id>https://www.v2ex.com/t/782249#reply0</id>
+        <link href="https://www.v2ex.com/t/782249#reply0"/>
+        <updated>2021-06-08T12:11:20.000Z</updated>
+        <summary type="html"><![CDATA[我知道可以通过 .gitattributes 文件来排除某些项目的导出，想知道能否通过命令行参数的形式指定这一次导出时的排除项。]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[上海] 想请教下各位的看法，目前上海的房价还适合入手嘛？]]></title>
+        <id>https://www.v2ex.com/t/782247#reply10</id>
+        <link href="https://www.v2ex.com/t/782247#reply10"/>
+        <updated>2021-06-08T12:00:29.000Z</updated>
+        <summary type="html"><![CDATA[1 、首套房，是刚需
+2 、2021 年上海房价也已经涨了一波了
+3 、大家对现在买二手房的看法是什么？
+4 、大家对未来的走势有什么预测？
+诚问，主要就是想问下大家对现在上海买房的看法。]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Apple] 更新 iOS 15 之后，左上角多了个单次使用定位权限提示，微信每次打开都会请求定位……]]></title>
+        <id>https://www.v2ex.com/t/782246#reply7</id>
+        <link href="https://www.v2ex.com/t/782246#reply7"/>
+        <updated>2021-06-08T11:56:23.000Z</updated>
+        <summary type="html"><![CDATA[Apple - @treblex -]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[V2EX] 主题帖只能编辑一次？]]></title>
+        <id>https://www.v2ex.com/t/782245#reply2</id>
+        <link href="https://www.v2ex.com/t/782245#reply2"/>
+        <updated>2021-06-08T11:50:03.000Z</updated>
+        <summary type="html"><![CDATA[回复能编辑吗？]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Apple] 怎么才能把 M1 macbook 的系统恢复分区删除重建。昨天更新到 12.0 这个系统恢复分区也更新了，现在重装了 bigsur，它还是 12.0，只能用 U 盘启动来重做系统了。]]></title>
+        <id>https://www.v2ex.com/t/782244#reply6</id>
+        <link href="https://www.v2ex.com/t/782244#reply6"/>
+        <updated>2021-06-08T11:49:33.000Z</updated>
+        <summary type="html"><![CDATA[https://forums.macrumors.com/attachments/b99a649d-deaa-478f-b931-0defe4cd5010-jpeg.1789197/
+如图
+进入系统恢复后，安装那一项成了安装 Macos 12.0 了
+怎么才能把它降回去
+我看了下磁盘工具里不能抹掉，原本抹掉 macintosh hd 的时候有个抹掉全部分区组的那个选项也没有了。]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Apple] 请问 mac catalina apple music 支持无损吗]]></title>
+        <id>https://www.v2ex.com/t/782242#reply10</id>
+        <link href="https://www.v2ex.com/t/782242#reply10"/>
+        <updated>2021-06-08T11:36:51.000Z</updated>
+        <summary type="html"><![CDATA[不想更新到 big bug sure
+请问 windows pc ituns 什么时候开始支持有谁知道不]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Android] Android Socket 通信网问题]]></title>
+        <id>https://www.v2ex.com/t/782241#reply1</id>
+        <link href="https://www.v2ex.com/t/782241#reply1"/>
+        <updated>2021-06-08T11:35:41.000Z</updated>
+        <summary type="html"><![CDATA[我想直接实现两个 Android 客户端之间的大量的消息通信，直接使用 Socket 连接，我知道是可以的。
+我有两个问题
+两个 Android 设备可以通过，IP 使用 Netty 库吗？
+还有有什么其他解决方案呢？
+Any Suggestion will help!
+高通信量之间的直接使用 Android socket 端口，会不会无法满足高通信量？]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Apple] 关于如何欣赏 Apple music 无损音频的几个问题]]></title>
+        <id>https://www.v2ex.com/t/782240#reply2</id>
+        <link href="https://www.v2ex.com/t/782240#reply2"/>
+        <updated>2021-06-08T11:31:27.000Z</updated>
+        <summary type="html"><![CDATA[手上的苹果设设备有 iPad mini 5 一台，本机外放肯定首先 pass 了，苹果的 earpods 能听出提升吗？ 3.5mm 外接有源音箱是否会造成瓶颈？ lightning 接口能否利用上？ Windows 版的 iTunes 可以输出 192Hz 24bit 的音频，是否就相当于 iOS 设备的最高音质了？]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[嵌入式开发] 请教 ARM LDM 指令读数据到 PC 寄存器的一个问题]]></title>
+        <id>https://www.v2ex.com/t/782239#reply3</id>
+        <link href="https://www.v2ex.com/t/782239#reply3"/>
+        <updated>2021-06-08T11:22:40.000Z</updated>
+        <summary type="html"><![CDATA[最近在学 ARM 汇编，看到 LDM 指令的时候有个问题看不懂了。
+Loading to the PC
+In ARMv4, bits[1:0] of the address loaded must be 0b00.  
+In ARMv5T and above:  
+bits[1:0] must not be 0b10  
+if bit[0] is 1, execution continues in Thumb state
+if bit[0] is 0, execution continues in ARM state.  
+这是ARM官方对 LDM 指令读数据 PC 寄存器的描述。
+为什么 bit[0] 置 1 之后，接下来就进到 Thumb 模式继续执行了呢。Tumb 指令两字节对齐，bit[0] 应该也是 0 吧。]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Java] 接口接收稿件数据批量入库，接口和数据库(类似 hbase)之间用什么做中转比较好]]></title>
+        <id>https://www.v2ex.com/t/782238#reply0</id>
+        <link href="https://www.v2ex.com/t/782238#reply0"/>
+        <updated>2021-06-08T11:09:02.000Z</updated>
+        <summary type="html"><![CDATA[目前有个需求是提供一个稿件的入库接口，然后入到一个闭源的类似 hbase 的数据库中，由于某些原因，接口和入库过程要解耦，所以需要中转一下，一种方案是接口端把 json 写入文件，logstash 读取，然后 output 输出到一个 http 接口，然后入库。另一种是接口把稿件数据扔到 kafka 里，然后接口端拉数据入库。
+总体量大概一天 1~2w 篇，不算大，但是字段比较多，正文会大一点。领导要求尽量保证数据不丢失。
+感觉走 logstash，如果 output 对应的接口挂掉，容易大量重试，比较麻烦。然后走消息队列，感觉作为消息体似乎有点大，而且不知道会不会被撑爆导致里面数据丢失（做持久化可解决？）
+想求教一下，哪种方案合适一点，或者说有啥更合适的方案更好。
+谢谢诸位。]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Chrome] Chrome 3 击 选中文字时，会多余的选中旁边元素上的文字]]></title>
+        <id>https://www.v2ex.com/t/782237#reply0</id>
+        <link href="https://www.v2ex.com/t/782237#reply0"/>
+        <updated>2021-06-08T11:07:19.000Z</updated>
+        <summary type="html"><![CDATA[比如，维基词条页面 3 击标题时，会额外选中"[编辑]"字样，虽然看着没有背景色，实际在菜单中"使用 Google 搜索..."会出现多余的文字："[编辑]"，然而使用 Ctrl+C 复制时又是正常的，没有多余的文字。
+这是怎么回事，如何避免？
+使用的 Windows10 Chrome 最新版。]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[酷工作] [北京] 豆瓣 招聘前端工程师一名]]></title>
+        <id>https://www.v2ex.com/t/782236#reply2</id>
+        <link href="https://www.v2ex.com/t/782236#reply2"/>
+        <updated>2021-06-08T10:56:48.000Z</updated>
+        <summary type="html"><![CDATA[一个关于公司简单的介绍
+豆瓣 用户对于图书、电影和音乐兴趣而搭建的社交网站，由创始人阿北创立于 2005 年。
+一些关于这个职位的简单介绍
+目前的这个职位主要工作方向是豆瓣小组 以及豆瓣出品的一些小程序
+主要技术栈前端是 React 及其周边的生态，后端是 Python （因为人少，所以我们的技术栈相对统一，减少认知和维护成本）
+有部分十年以上的代码，对于考古爱好者来说，在从代码仓库里，你能看到近十年来前端领域发展的路径
+工作中会遇到坑，把坑填上而不是绕过去，是我们推崇的做事方式
+更多的信息请直接拉到帖子下方的 职位信息 部分 👇
+工作环境
+位于北京朝阳区，兆维工业园
+955.WLB 上榜公司
+五险一金 + 商业补充医疗保险 + 意外保险
+10 个工作日起，最多 15 日年假，5 日全薪病假
+办公室全年工作日新风开放（节假日不清楚，因为节假日没怎么来过公司）
+职位信息
+前端工程师
+职位描述
+与产品经理、设计师、后端 /客户端工程师共同完善和开发豆瓣 web 和 App 产品；
+参与产品设计、Code Review，与其他工程师一起探讨技术方案；
+分析并解决问题，持续改进产品。
+职位要求
+具备扎实的计算机基础知识，熟悉 Web 相关技术原理;
+熟悉 JavaScript (ES2015+ / TypeScript)，对 React 及其生态有较深理解;
+熟悉 CSS，理解 Flex / Grid 等布局，了解 CSS Modules 等模块化方案；
+参与过大型 Web 应用系统的设计、开发工作，了解服务端技术；
+热衷于性能分析与调优，勇于面对技术挑战;
+具有良好的英文阅读能力，可根据实践持续贡献、改进技术文档;
+三年及以上相关开发经验。 
+优先条件
+使用 TypeScript 开发过完整项目；
+掌握一门非 JavaScript/TypeScript 语言（ Python/Go 等）；
+有原生 App/Hybrid 开发经验；
+对细节敏感；
+优秀的自我驱动力和团队推动能力，能够推动其他同事一起完成相关需求；
+开源项目贡献者。
+联系方式
+投递简历到 team@douban.com 
+更多职位，请移步这里]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[macOS] 在 mac 上求一个批量去视频片头的软件]]></title>
+        <id>https://www.v2ex.com/t/782235#reply16</id>
+        <link href="https://www.v2ex.com/t/782235#reply16"/>
+        <updated>2021-06-08T10:49:49.000Z</updated>
+        <summary type="html"><![CDATA[之前一直用的是 Joyoshare Media Cutter，也确实很好用，可以不重新编码就能剪切，一部几 g 的电影去片头几秒钟就能完成，比自带的预览快多了。但唯一的问题是不能批量操作只能一部一部来，太慢。不知道还有哪些软件能批量不转码的去片头？]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[问与答] 请问淘宝 0 秒下单 1 秒付款是怎么做到的?]]></title>
+        <id>https://www.v2ex.com/t/782234#reply11</id>
+        <link href="https://www.v2ex.com/t/782234#reply11"/>
+        <updated>2021-06-08T10:44:48.000Z</updated>
+        <summary type="html"><![CDATA[求助!]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[酷工作] [上海] B 站主站技术中心招聘 Golang 高级研发工程师]]></title>
+        <id>https://www.v2ex.com/t/782232#reply0</id>
+        <link href="https://www.v2ex.com/t/782232#reply0"/>
+        <updated>2021-06-08T10:39:46.000Z</updated>
+        <summary type="html"><![CDATA[微信联系：aimagecong
+工作要求
+1. 负责哔哩哔哩主站 UP 主业务相关系统的设计与开发工作。
+2. 熟练掌握 GOLANG 者优先，或熟练掌握至少一门其它开发语言，如 C++、JAVA 、PHP 等。
+3. 精通 MYSQL 数据库设计，对 HTTP 、RPC 、消息队列、缓存等技术有深入理解及使用。
+4. 熟悉 Linux 命令及 SHELL 脚本编写。
+5. 有较好的沟通能力及团队合作精神。
+6. 对技术有较高的热情，有责任心，对团队其他伙伴负责。]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[分享发现] 分享一个超好用的本地视频播放器，支持超高清 4k 蓝光视频播放！]]></title>
+        <id>https://www.v2ex.com/t/782231#reply1</id>
+        <link href="https://www.v2ex.com/t/782231#reply1"/>
+        <updated>2021-06-08T10:37:49.000Z</updated>
+        <summary type="html"><![CDATA[提到视频播放器，相信很多都会提到 Potplayer，Potplayer 功能强大，但很多用户不会设置，导致用户体验不是很好。我今天想和大家分享的是一款国产的视频播放器，不但功能强大，而且易操作易使用，“小白”也能轻松上手的播放器！
+恒星播放器支持各种视频和音频的格式，超清万能解码，还支持 ISO 文件直接播放，蓝光 HDR ！直接打开蓝光 HDR 视频播放即可。
+以下是恒星播放器比较吸引我的功能点，和大家分享下
+1.运动补偿算法。恒星播放器可以一键将 24 帧或者 30 帧的视频补到 60 帧，这样视频播放时就更加丝滑流畅，只需点击视频播放左下角“插帧”字样即可启动该功能！
+2.音频直通输出功能。恒星播放器可以将将音频设置为源码输出到外部设备，通俗点来说就是将未经过任何渲染处理的原汁原味的音频信号输出到外部设备。只要在声音设置选项中，选择“使用 S/PDIF 输出”功能，并将音频驱动设置为“Auto”，就可启动该功能，用过后，最大的感受就是音效更加真实！
+3.倍速播放。现代生活节奏加快，为了节约时间，提高效率，越来越多人使用倍速播放功能，倍速播放就是我追剧，看网课时常用的功能。
+4.一键投屏，可以把手机上观看的视频投放到恒星播放器，也可以将恒星播放器播放的视频投放到电视。
+5.快捷键支持，恒星播放器支持很多快捷键操作，大大低提高了便捷性。
+目前恒星播放器有 windows 和 Mac 版本，大家感兴趣可以到官网下载体验。]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Apple] Apple 发布了 tensorflow-macos]]></title>
+        <id>https://www.v2ex.com/t/782228#reply21</id>
+        <link href="https://www.v2ex.com/t/782228#reply21"/>
+        <updated>2021-06-08T10:24:11.000Z</updated>
+        <summary type="html"><![CDATA[但我还没装上
+https://developer.apple.com/metal/tensorflow-plugin/]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[程序员] 请问 类似 B 站这样的 大网站 他们关注模块是怎么设计的？]]></title>
+        <id>https://www.v2ex.com/t/782226#reply9</id>
+        <link href="https://www.v2ex.com/t/782226#reply9"/>
+        <updated>2021-06-08T10:19:24.000Z</updated>
+        <summary type="html"><![CDATA[这样的大网站 他们的关注列表数据量肯定非常大 ， 那他们是怎么存储呢？ 是 NOSQL 吗？  有哪些选型？]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Python] windows 下用 powershell 和用 cmd 运行 Python 有什么区别吗]]></title>
+        <id>https://www.v2ex.com/t/782224#reply4</id>
+        <link href="https://www.v2ex.com/t/782224#reply4"/>
+        <updated>2021-06-08T10:14:04.000Z</updated>
+        <summary type="html"><![CDATA[是这样的。在同一个 python 虚拟环境下（安装有 PyYAML 包），在 cmd 中 import yaml 一切正常，在 powershell 下 import yaml 就会提示 No module named 'yaml'
+请教一下是什么问题]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[全球工单系统] Python 官网以及文档 Boom 了]]></title>
+        <id>https://www.v2ex.com/t/782223#reply1</id>
+        <link href="https://www.v2ex.com/t/782223#reply1"/>
+        <updated>2021-06-08T10:13:16.000Z</updated>
+        <summary type="html"><![CDATA[刚刚敲代码时发现 https://docs.python.com/ 炸了，www 也同样 503 。🤯]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[酷工作] 加入 Cobo，一起用区块链改变世界（全球范围内分布式办公）]]></title>
+        <id>https://www.v2ex.com/t/782222#reply1</id>
+        <link href="https://www.v2ex.com/t/782222#reply1"/>
+        <updated>2021-06-08T10:13:15.000Z</updated>
+        <summary type="html"><![CDATA[关于我们：Cobo 成立于 2017 年，公司旗下业务模块包括 面向终端用户的数字资产钱包-Cobo Wallet 、面向机构的钱包开发及数字资产托管解决方案—Cobo Custody 、全开源真脱网硬件数字钱包-Cobo Vault 。公司总部位于北京，同时在上海、西安、新加坡、西雅图设有办公室。公司创始团队在业内有着深远的影响力，CEO 为全球最大的综合性矿池 F2pool 创办者，CTO 为 Facebook 早期员工，曾创办中国第一个数字钱包。
+目前在北京西安西雅图新加坡都有 0ffice,也有其他地区分布式办公的规划。
+目前在招聘前端 leader 、前端开发工程师、后端开发工程师（ Python ）、区块链开发工程师、全栈开发工程师、安全开发工程师、测试经理、测试开发工程师等职位。
+我司大前端采用 Flutter 来进行项目开发，希望人选精通大前端其中一个垂直领域，比如 React 、Vue 、Node.js 等任何一个都🉑️，前端功底扎实，心态 open，愿意去学习新技术。
+公司所有开发的岗位不限制过往的开发语言及技术栈。希望编程基础扎实，热爱 coding,喜欢研究源码、有开源项目那就更棒了。
+目前开发岗位整体的 HC 近 20 个，初级、中级、高级、架构都在招聘，工作时间是上午十点到晚上七点，三餐房补、双休不怎么加班、一年 6 次奖金（每两个月发一次）本贴一直有效，HR 小姐姐的邮箱 tyan@cobo.com,微信 18618316166 欢迎有兴趣的伙伴加入一起干大事！]]></summary>
         <author>
             <name>V2EX</name>
         </author>
@@ -822,35 +947,6 @@ A14 上多数游戏可以到 60fps 。
 买来以后，Verizon 就发现了真相，内容行业根本不行，非常难做，那些门户网站疲软不堪，业务毫无起色。去年又赶上了疫情，于是不想再撑了，决定认赔出局，抛售旗下的媒体资产，集中精力做无线通信。两大门户买来时将近90亿，卖掉只有50亿，仅仅四五年的时间，贬值了将近一半。
 内容渠道的贬值，是一个全世界的普遍现象。 国内的几大门户网站，这几年也在走下坡路。不仅仅是它们，传统的内容类网站都不行，论坛和博客社区都在凋谢，怎么都做不起来。天涯社区、猫扑社区，当年红极一时，现在都是奄奄一息。豆瓣的社区也不成功，只是因为它有资料库业务，所以还能维持。
 贬值到什么程度，我举两个例子。（1）2008年，微软公司曾经报价446亿美元收购 Yahoo，被拒绝，理由是报价太低。到了现在，Yahoo 的价值连当年的零头都不到。（2）2013年，博客平台 Tumblr 以11亿美元的价格…]]></summary>
-        <author>
-            <name>阮一峰的网络日志</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[软件工程的最大难题]]></title>
-        <id>http://www.ruanyifeng.com/blog/2021/05/scaling-problem.html</id>
-        <link href="http://www.ruanyifeng.com/blog/2021/05/scaling-problem.html"/>
-        <updated>2021-05-10T00:25:16.000Z</updated>
-        <summary type="html"><![CDATA[一、引言
-大学有一门课程《软件工程》，研究如何组织和管理软件项目。
-
-说实话，这门课不适合本科生，因为学生可能体会不到，课程到底要解决什么问题。只有亲身参与过大项目的开发，经历过大团队，才能感受为什么软件工程很重要，又很难做对。
-软件开发有一个难题，叫做"扩展"（scaling），即怎样服务更多的用户。 你有10000个并发用户，跟你有10个并发用户，这是完全不同的概念，哪怕功能完全相同，背后的实现是完全不一样的。并发用户数上升一个数量级，软件就必须重构，大量问题随之产生。
-
-大项目的技术难度高，管理难度更高，而且大团队的生产率往往很低，行动缓慢。 《软件工程》就是研究，如何扩展软件和团队，适应大项目的需要。
-国外有很多专著，研究这个问题。前些日子，我读到一篇文章，推荐了两本书。第一本叫做《加速：构建和扩展高性能技术组织》，第二本叫做《规模：生物，城市和公司的普遍法则》。
-
-
-我看了这两本书的介绍，觉得很有启发，下面就做一些摘录。
-二、大项目的困境
-一个典型的大型软件项目，开发过程通常是下面这样。
-最开始的时候，它是一个小项目，开发人员就是两三个人，甚至可能只有一个人。产品比较简单，功能很有限。
-
-第一版发布后，拿给客户使用，反响不错。客户要求的新功能，能够很快开发出来，Bug 修补也很快，因为早期客户往往可以与开发人员直接沟通，快速反馈。
-公司于是决定投入更多人员，开发这个项目。团队慢慢变大了，软件开始变得复杂，开发速度逐渐变慢了，2.0 版花费的时间比预期要长一点。Bug 的修复难度开始增加。总之，新功能的开发日程变久了。
-公司的自然反应是进一步扩充团队。但是更多的新成员其实会降低其他人的生产率，一个普遍现象是团队规模越大，每个人的平均生产率越低。
-
-几年以后，代码逐渐老化，复杂性不断增加，项目开始停滞不前。某些极端的情况下，软件的维护成本变得非常高昂，并且几乎不可能进…]]></summary>
         <author>
             <name>阮一峰的网络日志</name>
         </author>
